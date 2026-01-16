@@ -1,10 +1,4 @@
 # main links links
 main:
-  - title: "About"
+  - title: "Home"
     url: /
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Services"
-    url: /services/

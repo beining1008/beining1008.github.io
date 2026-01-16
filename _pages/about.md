@@ -8,21 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-  .page__content h1 {
-    padding-top: 60px;
-    margin-top: -60px;
-  }
-</style>
-
 Second-year PhD student at South Dakota State University.
 
-[About Me](#about-me) | [News](#-news) | [Publications](#-publications) | [Academic Services](#-academic-services)
+---
+
+**Navigation:** [About Me](#about-me) | [News](#news) | [Publications](#publications) | [Academic Services](#academic-services)
 
 ---
 
 <a name="about-me"></a>
-# About Me
+## About Me
 
 I am a Ph.D. student in Computer Science working at the intersection of wireless networking, edge intelligence, federated learning, and continual learning. My recent work explores how intelligent communication systems can efficiently adapt, learn, and operate under resource constraints in dynamic environments, with applications in UAV systems, vehicular networks, and smart healthcare infrastructures.
 
@@ -30,29 +25,28 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ---
 
-<a name="-news"></a>
-# 🔥 News
+<a name="news"></a>
+## 🔥 News
 
 - **January 2026**: 🏆 Our paper "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems" was designated as an **ESI Hot Paper** (Top 0.1% in Computer Science).
 - **December 2025**: 📝 Our paper "Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture" was accepted by **ACM RACS 2025**.
 - **October 2025**: 📝 Our paper "Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework" was accepted by **IEEE/ACM Transactions on Networking**.
-- **June 2025**: 📝 Our paper "R-ACP: Real-Time Adaptive Collaborative Perception Leveraging Robust Task-Oriented Communications" was accepted by **IEEE JSAC**.
+- **June 2025**: 🏆 Appointed as **Technical Program Committee (TPC) Member** for IEEE ICNC 2026.
 - **June 2025**: 📝 Our paper "FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning" was accepted by **WASA 2025** (Tokyo, Japan).
 - **April 2025**: 📝 Our paper "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization" was accepted by **IEEE Network Magazine**.
 - **February 2025**: 🎉 Our paper "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems" was accepted by **IEEE Transactions on Mobile Computing**.
-- **December 2024**: 🏆 Appointed as **Technical Program Committee (TPC) Member** for IEEE ICNC 2026.
 - **September 2024**: 🎓 Started PhD program in Computer Science at South Dakota State University, advised by Prof. Jun Huang.
 
 ---
 
-<a name="-publications"></a>
-# 📝 Publications
+<a name="publications"></a>
+## 📝 Publications
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-## Selected Publications
+### Selected Publications
 
 1. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating." *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903. 
    - 🏆 **ESI Hot Paper (Top 0.1% in Computer Science)**
@@ -61,7 +55,7 @@ My research has been published in leading IEEE journals and conferences, includi
 
 3. **Beining Wu**, Jun Huang, Qiang Duan. "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization." *IEEE Network Magazine*, 2025. DOI: 10.1109/MNET.2025.3565977.
 
-## Journal Articles
+### Journal Articles
 
 - **Beining Wu**, Jun Huang, Qiang Duan. "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization." *IEEE Network*, 2025. DOI: 10.1109/MNET.2025.3565977.
 
@@ -76,35 +70,33 @@ My research has been published in leading IEEE journals and conferences, includi
 
 - Dong Pan, **Beining Wu**, Yi-Liu Sun, et al. "A Fault-Tolerant and Energy-Efficient Design of a Network Switch Based on a Quantum-Based Nano-Communication Technique." *Sustainable Computing: Informatics and Systems*, Vol. 37, Article 100827, 2023.
 
-## Conference Papers
+### Conference Papers
 
 - **Beining Wu**, Jun Huang, Qiang Duan. "Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture." *Proceedings of the 2025 International Conference on Research in Adaptive and Convergent Systems (RACS)*, ACM, 2025.
 
 - **Beining Wu**, Jun Huang, Qiang Duan. "FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning." *International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)*, Tokyo, Japan, June 2025.
 
-## Preprints & Manuscripts Under Review
+### Preprints & Manuscripts Under Review
 
 - **Beining Wu**, Jun Huang, Shui Yu. ""X of Information" Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems." *IEEE Communications Surveys and Tutorials*, Major Revision, 2025. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
 
 - **Beining Wu**, Z. Ding, J. Huang. "A Review of Continuous Learning in Edge AI." *IEEE Transactions on Network Science and Engineering*, Major Revision, 2025.
 
-- Zihao Ding, **Beining Wu**, Jun Huang, Yanxiao Zhao, Shui Yu, Zhipeng Cai. "SCALE: Sensitivity-Aware Federated Unlearning with Age-of-Information Optimization for Mobile Edge Computing." Submitted to *IEEE INFOCOM 2026*.
-
 ---
 
-<a name="-academic-services"></a>
-# 💼 Academic Services
+<a name="academic-services"></a>
+## 💼 Academic Services
 
-## Conference Services
+### Conference Services
 
 - **Technical Program Committee (TPC) Member**
   - IEEE International Conference on Computing, Networking and Communications (ICNC), 2026
 
-## Journal Reviewer
+### Journal Reviewer
 
 I serve as a reviewer for the following prestigious journals:
 
-### IEEE Journals
+**IEEE Journals:**
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC)
@@ -116,7 +108,7 @@ I serve as a reviewer for the following prestigious journals:
 - IEEE Network Magazine
 - IEEE Access
 
-### Other Journals
+**Other Journals:**
 - ICT Express
 - Digital Communications and Networks
 - International Journal of Communication Systems

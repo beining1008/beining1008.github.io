@@ -90,6 +90,7 @@ I serve as a reviewer for the following prestigious journals:
 
 **IEEE Journals:**
 - IEEE Journal on Selected Areas in Communications (JSAC)
+- IEEE Journal of Selected Topics in Signal Processing (JSTSP)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)

@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<div style="background: #f5f5f5; padding: 15px; margin-bottom: 20px; border-radius: 5px;">
+  <strong>Quick Navigation:</strong> 
+  <a href="#about-me">About Me</a> | 
+  <a href="#news">News</a> | 
+  <a href="#publications">Publications</a> | 
+  <a href="#academic-services">Academic Services</a>
+</div>
+
+---
+
 <a name="about-me"></a>
 ## About Me
 

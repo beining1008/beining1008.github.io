@@ -2,3 +2,11 @@
 main:
   - title: "Home"
     url: /
+  - title: "About Me"
+    url: /#about-me
+  - title: "News"
+    url: /#news
+  - title: "Publications"
+    url: /#publications
+  - title: "Academic Services"
+    url: /#academic-services

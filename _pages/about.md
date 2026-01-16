@@ -8,14 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Second-year PhD student at South Dakota State University.
-
----
-
-**Navigation:** [About Me](#about-me) | [News](#news) | [Publications](#publications) | [Academic Services](#academic-services)
-
----
-
 <a name="about-me"></a>
 ## About Me
 

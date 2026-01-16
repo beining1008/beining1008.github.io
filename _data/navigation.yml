@@ -1,10 +1,12 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
   - title: "About Me"
-    url: #about-me
+    url: "#about-me"
   - title: "News"
-    url: #news
+    url: "#news"
   - title: "Publications"
-    url: #publications
+    url: "#publications"
   - title: "Academic Services"
-    url: #academic-services
+    url: "#academic-services"

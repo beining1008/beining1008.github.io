@@ -8,6 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .page__content h1 {
+    padding-top: 60px;
+    margin-top: -60px;
+  }
+</style>
+
+Second-year PhD student at South Dakota State University.
+
+[About Me](#about-me) | [News](#-news) | [Publications](#-publications) | [Academic Services](#-academic-services)
+
+---
+
+<a name="about-me"></a>
 # About Me
 
 I am a Ph.D. student in Computer Science working at the intersection of wireless networking, edge intelligence, federated learning, and continual learning. My recent work explores how intelligent communication systems can efficiently adapt, learn, and operate under resource constraints in dynamic environments, with applications in UAV systems, vehicular networks, and smart healthcare infrastructures.
@@ -16,18 +30,22 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ---
 
+<a name="-news"></a>
 # 🔥 News
 
+- **January 2026**: 🏆 Our paper "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems" was designated as an **ESI Hot Paper** (Top 0.1% in Computer Science).
+- **December 2025**: 📝 Our paper "Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture" was accepted by **ACM RACS 2025**.
+- **October 2025**: 📝 Our paper "Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework" was accepted by **IEEE/ACM Transactions on Networking**.
 - **June 2025**: 📝 Our paper "R-ACP: Real-Time Adaptive Collaborative Perception Leveraging Robust Task-Oriented Communications" was accepted by **IEEE JSAC**.
-- **January 2025**: 📝 Our paper "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization" was accepted by **IEEE Network Magazine**.
-- **January 2025**: 🎉 Our paper "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems" was accepted by **IEEE Transactions on Mobile Computing** and designated as an **ESI Highly Cited Paper** (Top 1% in Computer Science).
-- **January 2025**: 📝 Our paper "Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework" was accepted by **IEEE/ACM Transactions on Networking**.
+- **June 2025**: 📝 Our paper "FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning" was accepted by **WASA 2025** (Tokyo, Japan).
+- **April 2025**: 📝 Our paper "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization" was accepted by **IEEE Network Magazine**.
+- **February 2025**: 🎉 Our paper "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems" was accepted by **IEEE Transactions on Mobile Computing**.
 - **December 2024**: 🏆 Appointed as **Technical Program Committee (TPC) Member** for IEEE ICNC 2026.
-- **2025**: 📝 Two conference papers accepted: "Reinforcement Learning-Based Energy-Aware Coverage Path Planning" (ACM RACS 2025) and "FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning" (WASA 2025, Tokyo).
 - **September 2024**: 🎓 Started PhD program in Computer Science at South Dakota State University, advised by Prof. Jun Huang.
 
 ---
 
+<a name="-publications"></a>
 # 📝 Publications
 
 {% if site.author.googlescholar %}
@@ -48,7 +66,7 @@ My research has been published in leading IEEE journals and conferences, includi
 - **Beining Wu**, Jun Huang, Qiang Duan. "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization." *IEEE Network*, 2025. DOI: 10.1109/MNET.2025.3565977.
 
 - Jun Huang, **Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating." *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903. 
-  - **ESI Highly Cited Paper (Top 1% in Computer Science)**
+  - **ESI Hot Paper (Top 0.1% in Computer Science)**
 
 - **Beining Wu**, Jun Huang, Qiang Duan, et al. "Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework." *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
 
@@ -64,8 +82,17 @@ My research has been published in leading IEEE journals and conferences, includi
 
 - **Beining Wu**, Jun Huang, Qiang Duan. "FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning." *International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)*, Tokyo, Japan, June 2025.
 
+## Preprints & Manuscripts Under Review
+
+- **Beining Wu**, Jun Huang, Shui Yu. ""X of Information" Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems." *IEEE Communications Surveys and Tutorials*, Major Revision, 2025. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
+
+- **Beining Wu**, Z. Ding, J. Huang. "A Review of Continuous Learning in Edge AI." *IEEE Transactions on Network Science and Engineering*, Major Revision, 2025.
+
+- Zihao Ding, **Beining Wu**, Jun Huang, Yanxiao Zhao, Shui Yu, Zhipeng Cai. "SCALE: Sensitivity-Aware Federated Unlearning with Age-of-Information Optimization for Mobile Edge Computing." Submitted to *IEEE INFOCOM 2026*.
+
 ---
 
+<a name="-academic-services"></a>
 # 💼 Academic Services
 
 ## Conference Services
@@ -77,16 +104,22 @@ My research has been published in leading IEEE journals and conferences, includi
 
 I serve as a reviewer for the following prestigious journals:
 
-**IEEE Journals**: IEEE JSAC, IEEE TMC, IEEE SMC, IEEE TCCN, IEEE TVT, IEEE TNSM, IEEE IoTJ, IEEE Network, IEEE Access
+### IEEE Journals
+- IEEE Journal on Selected Areas in Communications (JSAC)
+- IEEE Transactions on Mobile Computing (TMC)
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC)
+- IEEE Transactions on Cognitive Communications and Networking (TCCN)
+- IEEE Transactions on Vehicular Technology (TVT)
+- IEEE Transactions on Cybernetics (TYCB)
+- IEEE Transactions on Network and Service Management (TNSM)
+- IEEE Internet of Things Journal (IoTJ)
+- IEEE Network Magazine
+- IEEE Access
 
-**Other Journals**: ICT Express, Digital Communications and Networks, International Journal of Communication Systems
-
-## Research Metrics
-
-- **Total Citations**: 125+ (Google Scholar)
-- **Publications**: 10+ peer-reviewed papers
-- **ESI Highly Cited Paper**: 1 (Top 1% in Computer Science)
-- **Review Service**: 10+ top-tier IEEE journals
+### Other Journals
+- ICT Express
+- Digital Communications and Networks
+- International Journal of Communication Systems
 
 ---
 

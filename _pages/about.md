@@ -11,7 +11,7 @@ redirect_from:
 <a name="about-me"></a>
 ## About Me
 
-I am a Ph.D. student in Computer Science working at the intersection of wireless networking, edge intelligence, federated learning, and continual learning. My recent work explores how intelligent communication systems can efficiently adapt, learn, and operate under resource constraints in dynamic environments, with applications in UAV systems, vehicular networks, and smart healthcare infrastructures.
+I am a Second-year Ph.D. student in Computer Science at South Dakota State University working at the intersection of wireless networking, edge intelligence, federated learning, and continual learning. My recent work explores how intelligent communication systems can efficiently adapt, learn, and operate under resource constraints in dynamic environments, with applications in UAV systems, vehicular networks, and smart healthcare infrastructures.
 
 My research has been published in leading IEEE journals and conferences, including IEEE TMC, IEEE/ACM ToN, IEEE Network Magazine. I also contribute to the scholarly community as a reviewer for journals such as IEEE JSAC, IEEE TMC, IEEE IOTJ, IEEE TVT, IEEE TYCB, IEEE TNSM, ICT Express, and Digital Communications and Networks, etc. My broader goal is to advance adaptive and learning-driven communication systems that support scalable, autonomous, and trustworthy intelligence across distributed networks.
 
@@ -40,37 +40,37 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Selected Publications
 
-1. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating." *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903. 
+1. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903. 
    - 🏆 **ESI Hot Paper (Top 0.1% in Computer Science)**
 
-2. **Beining Wu**, Jun Huang, Qiang Duan, et al. "Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework." *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
+2. **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
 
-3. **Beining Wu**, Jun Huang, Qiang Duan. "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization." *IEEE Network Magazine*, 2025. DOI: 10.1109/MNET.2025.3565977.
+3. **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network Magazine*, 2025. DOI: 10.1109/MNET.2025.3565977.
 
 ### Journal Articles
 
-- **Beining Wu**, Jun Huang, Qiang Duan. "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization." *IEEE Network*, 2025. DOI: 10.1109/MNET.2025.3565977.
+- **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network*, 2025. DOI: 10.1109/MNET.2025.3565977.
 
-- Jun Huang, **Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating." *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903. 
+- Jun Huang, **Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903. 
   - **ESI Hot Paper (Top 0.1% in Computer Science)**
 
-- **Beining Wu**, Jun Huang, Qiang Duan, et al. "Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework." *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
+- **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
 
-- **Beining Wu**, Zhengkun Cai, Wei Wu, Xiaobin Yin. "AoI-aware Resource Management for Smart Health via Deep Reinforcement Learning." *IEEE Access*, Vol. 11, pp. 81180–81195, 2023.
+- **Beining Wu**, Zhengkun Cai, Wei Wu, Xiaobin Yin. <a href="https://ieeexplore.ieee.org/abstract/document/10196328">"AoI-aware Resource Management for Smart Health via Deep Reinforcement Learning."</a> *IEEE Access*, Vol. 11, pp. 81180–81195, 2023.
 
-- **Beining Wu**, Wei Wu. "Model-Free Cooperative Optimal Output Regulation for Linear Discrete-Time Multi-Agent Systems Using Reinforcement Learning." *Mathematical Problems in Engineering*, Vol. 2023, Article ID 6350647, 2023.
+- **Beining Wu**, Wei Wu. <a href="https://onlinelibrary.wiley.com/doi/full/10.1155/2023/6350647">"Model-Free Cooperative Optimal Output Regulation for Linear Discrete-Time Multi-Agent Systems Using Reinforcement Learning."</a> *Mathematical Problems in Engineering*, Vol. 2023, Article ID 6350647, 2023.
 
-- Dong Pan, **Beining Wu**, Yi-Liu Sun, et al. "A Fault-Tolerant and Energy-Efficient Design of a Network Switch Based on a Quantum-Based Nano-Communication Technique." *Sustainable Computing: Informatics and Systems*, Vol. 37, Article 100827, 2023.
+- Dong Pan, **Beining Wu**, Yi-Liu Sun, et al. <a href="https://www.sciencedirect.com/science/article/pii/S2210537922001585">"A Fault-Tolerant and Energy-Efficient Design of a Network Switch Based on a Quantum-Based Nano-Communication Technique."</a> *Sustainable Computing: Informatics and Systems*, Vol. 37, Article 100827, 2023.
 
 ### Conference Papers
 
 - **Beining Wu**, Jun Huang, Qiang Duan. "Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture." *Proceedings of the 2025 International Conference on Research in Adaptive and Convergent Systems (RACS)*, ACM, 2025.
 
-- **Beining Wu**, Jun Huang, Qiang Duan. "FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning." *International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)*, Tokyo, Japan, June 2025.
+- **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://link.springer.com/chapter/10.1007/978-981-96-8725-1_2">"FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning."</a> *International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)*, Tokyo, Japan, June 2025.
 
 ### Preprints & Manuscripts Under Review
 
-- **Beining Wu**, Jun Huang, Shui Yu. ""X of Information" Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems." *IEEE Communications Surveys and Tutorials*, Major Revision, 2025. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
+- **Beining Wu**, Jun Huang, Shui Yu. <a href="https://arxiv.org/abs/2507.19657">""X of Information" Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials*, Major Revision, 2025. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
 
 - **Beining Wu**, Z. Ding, J. Huang. "A Review of Continuous Learning in Edge AI." *IEEE Transactions on Network Science and Engineering*, Major Revision, 2025.
 

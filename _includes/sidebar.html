@@ -12,8 +12,30 @@
   {% endif %}
   
   <!-- ClustrMaps Visitor Location Widget -->
-  <div style="margin-top: 2em;">
+  <div style="margin-top: 2em;" id="clustrmaps-container">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zcKsgs8kNMzvRK_kuyZiuRBJ995e7JyoAjE-Ii3ovdQ&cl=ffffff&w=a"></script>
+    <script>
+      // Hide visitor count after ClustrMaps loads
+      setTimeout(function() {
+        var container = document.getElementById('clustrmaps-container');
+        if (container) {
+          // Hide all links to ClustrMaps site (which contain visitor count)
+          var links = container.querySelectorAll('a[href*="clustrmaps.com"]');
+          links.forEach(function(link) {
+            link.style.display = 'none';
+          });
+          // Hide any text nodes that might contain visitor count
+          var allElements = container.querySelectorAll('*');
+          allElements.forEach(function(el) {
+            if (el.textContent && (el.textContent.includes('visitors') || el.textContent.includes('Visitors'))) {
+              if (el.tagName !== 'SCRIPT' && el.tagName !== 'NOSCRIPT') {
+                el.style.display = 'none';
+              }
+            }
+          });
+        }
+      }, 1000);
+    </script>
   </div>
   
   </div>

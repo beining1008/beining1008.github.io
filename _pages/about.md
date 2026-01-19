@@ -34,11 +34,11 @@ My research has been published in leading IEEE journals and conferences, includi
 <a name="background"></a>
 ## 🎓 Background
 
-■ **South Dakota State University**, Brookings, USA (2024 - present)  
+• **South Dakota State University**, Brookings, USA (2024 - present)  
   PhD Student, Computer Science  
   Advisor: Prof. Jun Huang
 
-■ **Anhui Normal University**, Wuhu, China (2020 - 2024)  
+• **Anhui Normal University**, Wuhu, China (2020 - 2024)  
   Bachelor of Science, Mathematics and Applied Mathematics
 
 ---

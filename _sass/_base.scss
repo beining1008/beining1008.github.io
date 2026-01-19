@@ -5,6 +5,8 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  /* smooth scrolling for anchor links */
+  scroll-behavior: smooth;
 }
 
 body {

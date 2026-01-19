@@ -5,86 +5,68 @@
 (function() {
   'use strict';
 
-  // Wait for DOM to be ready
-  document.addEventListener('DOMContentLoaded', function() {
-    
-    // Get all navigation links
-    var navLinks = document.querySelectorAll('.masthead__menu a[href*="#"]');
-    
-    navLinks.forEach(function(link) {
-      link.addEventListener('click', function(e) {
-        var href = this.getAttribute('href');
-        
-        // Check if it's a hash-only link or same-page link
-        if (href.startsWith('#')) {
-          // Pure anchor link like #about-me
-          e.preventDefault();
-          scrollToTarget(href);
-        } else if (href.includes('#')) {
-          // Link like /page#section
-          var parts = href.split('#');
-          var path = parts[0];
-          var hash = '#' + parts[1];
-          
-          // Check if we're on the same page
-          if (isSamePage(path)) {
-            e.preventDefault();
-            scrollToTarget(hash);
-          }
-        }
-      });
-    });
-    
-    // Also handle the hardcoded Homepage link
-    var homeLinks = document.querySelectorAll('.masthead__menu-home-item a');
-    homeLinks.forEach(function(link) {
-      link.addEventListener('click', function(e) {
-        var href = this.getAttribute('href');
-        if (href.startsWith('#')) {
-          e.preventDefault();
-          scrollToTarget(href);
-        }
-      });
-    });
-    
-  });
-  
-  /**
-   * Scroll to target element smoothly
-   */
-  function scrollToTarget(hash) {
-    var target = document.querySelector(hash);
+  // Function to handle smooth scrolling
+  function smoothScrollTo(targetId) {
+    // Remove the # from the beginning if present
+    var id = targetId.replace('#', '');
+
+    // Try to find the target element by name attribute first (for <a name="...">)
+    var target = document.querySelector('a[name="' + id + '"]');
+
+    // If not found, try by ID
+    if (!target) {
+      target = document.getElementById(id);
+    }
+
+    // If still not found, try as a selector
+    if (!target) {
+      target = document.querySelector(targetId);
+    }
+
     if (target) {
+      // Scroll to the target
       target.scrollIntoView({
         behavior: 'smooth',
         block: 'start'
       });
-      
-      // Update URL without triggering page reload
+
+      // Update URL without page reload
       if (history.pushState) {
-        history.pushState(null, null, hash);
-      } else {
-        window.location.hash = hash;
+        history.pushState(null, null, '#' + id);
       }
+
+      return true;
     }
+
+    return false;
   }
-  
-  /**
-   * Check if the given path is the same as current page
-   */
-  function isSamePage(path) {
-    var currentPath = window.location.pathname;
-    
-    // Normalize paths
-    if (path === '/' || path === '') {
-      path = '/';
-    }
-    if (currentPath === '' || currentPath === '/index.html') {
-      currentPath = '/';
-    }
-    
-    return path === currentPath;
+
+  // Wait for DOM to be ready
+  function init() {
+    // Get all links in the navigation
+    var allLinks = document.querySelectorAll('a[href^="#"]');
+
+    // Add click handler to each link
+    allLinks.forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        var href = this.getAttribute('href');
+
+        // Only handle hash links
+        if (href && href.startsWith('#') && href.length > 1) {
+          e.preventDefault();
+          smoothScrollTo(href);
+        }
+      });
+    });
   }
-  
+
+  // Initialize when DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    // DOM is already ready
+    init();
+  }
+
 })();
 

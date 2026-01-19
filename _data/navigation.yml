@@ -4,6 +4,8 @@ main:
     url: "#about-me"
   - title: "News"
     url: "#news"
+  - title: "Background"
+    url: "#background"
   - title: "Publications"
     url: "#publications"
   - title: "Academic Services"

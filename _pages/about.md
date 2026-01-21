@@ -20,6 +20,7 @@ My research has been published in leading IEEE journals and conferences, includi
 <a name="news"></a>
 ## 🔥 News
 
+- **January 2026**: 📝 Our paper "A Review of Continual Learning in Edge AI" was accepted by **IEEE Transactions on Network Science and Engineering**.
 - **January 2026**: 🏆 Our paper "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems" was designated as an **ESI Hot Paper** (Top 0.1% in Computer Science).
 - **December 2025**: 📝 Our paper "Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture" was accepted by **ACM RACS 2025**.
 - **October 2025**: 📝 Our paper "Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework" was accepted by **IEEE/ACM Transactions on Networking**.

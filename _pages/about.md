@@ -53,18 +53,22 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Selected Publications
 
-1. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903. 
+1. **Beining Wu**, Z. Ding, J. Huang. "A Review of Continual Learning in Edge AI." *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
+
+2. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903.
    - 🏆 **ESI Hot Paper (Top 0.1% in Computer Science)**
 
-2. **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
+3. **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
 
-3. **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network Magazine*, 2025. DOI: 10.1109/MNET.2025.3565977.
+4. **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network Magazine*, 2025. DOI: 10.1109/MNET.2025.3565977.
 
 ### Journal Articles
 
+- **Beining Wu**, Z. Ding, J. Huang. "A Review of Continual Learning in Edge AI." *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
+
 - **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network*, 2025. DOI: 10.1109/MNET.2025.3565977.
 
-- Jun Huang, **Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903. 
+- Jun Huang, **Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903.
   - **ESI Hot Paper (Top 0.1% in Computer Science)**
 
 - **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
@@ -84,8 +88,6 @@ My research has been published in leading IEEE journals and conferences, includi
 ### Preprints & Manuscripts Under Review
 
 - **Beining Wu**, Jun Huang, Shui Yu. <a href="https://arxiv.org/abs/2507.19657">""X of Information" Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials*, Major Revision, 2025. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
-
-- **Beining Wu**, Z. Ding, J. Huang. "A Review of Continuous Learning in Edge AI." *IEEE Transactions on Network Science and Engineering*, Major Revision, 2025.
 
 ---
 

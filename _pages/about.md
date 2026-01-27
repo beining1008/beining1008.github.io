@@ -53,7 +53,7 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Selected Publications
 
-1. **Beining Wu**, Z. Ding, J. Huang. "A Review of Continual Learning in Edge AI." *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
+1. **Beining Wu**, Z. Ding, J. Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
 
 2. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903.
    - 🏆 **ESI Hot Paper (Top 0.1% in Computer Science)**
@@ -64,7 +64,7 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Journal Articles
 
-- **Beining Wu**, Z. Ding, J. Huang. "A Review of Continual Learning in Edge AI." *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
+- **Beining Wu**, Z. Ding, J. Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
 
 - **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network*, 2025. DOI: 10.1109/MNET.2025.3565977.
 

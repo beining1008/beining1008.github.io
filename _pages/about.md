@@ -81,7 +81,7 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Conference Papers
 
-- **Beining Wu**, Jun Huang, Qiang Duan. "Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture." *Proceedings of the 2025 International Conference on Research in Adaptive and Convergent Systems (RACS)*, ACM, 2025.
+- **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://www.arxiv.org/abs/2601.16405">"Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture."</a> *Proceedings of the 2025 International Conference on Research in Adaptive and Convergent Systems (RACS)*, ACM, 2025.
 
 - **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://link.springer.com/chapter/10.1007/978-981-96-8725-1_2">"FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning."</a> *International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)*, Tokyo, Japan, June 2025.
 

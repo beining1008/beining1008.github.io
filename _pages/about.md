@@ -123,4 +123,16 @@ I serve as a reviewer for the following prestigious journals:
 
 ---
 
+## 🏸 More About Me
+
+Beyond academics, I am a National Level-2 Badminton Athlete (China) and currently serve as the President of the Badminton Club at South Dakota State University.
+
+### Selected Honors & Achievements
+
+**Badminton**
+- Men's Singles Champion, Men's Doubles Champion, and Men's Team Champion - Wuhu City Games Badminton Competition 
+- Fifth Place in Men's Singles & Fifth Place in Men's Team - The 15th Sports Games of Anhui Province, College Division
+
+---
+
 *Last updated: January 2026*

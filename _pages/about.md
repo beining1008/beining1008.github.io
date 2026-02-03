@@ -120,6 +120,7 @@ I serve as a reviewer for the following prestigious journals:
 - ICT Express
 - Digital Communications and Networks
 - International Journal of Communication Systems
+- IET Wireless Sensor Systems
 
 ---
 

@@ -87,7 +87,7 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Preprints & Manuscripts Under Review
 
-- **Beining Wu**, Jun Huang, Shui Yu. <a href="https://arxiv.org/abs/2507.19657">""X of Information" Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials*, Major Revision, 2025. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
+- **Beining Wu**, Jun Huang, Shui Yu. <a href="https://arxiv.org/abs/2507.19657">"``X of Information" Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials*, Major Revision, 2025. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
 
 ---
 

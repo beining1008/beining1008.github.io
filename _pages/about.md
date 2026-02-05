@@ -126,7 +126,7 @@ I serve as a reviewer for the following prestigious journals:
 
 ## 🏸 More About Me
 
-Beyond academics, I am a National Level-2 Badminton Athlete (China) and currently serve as the President of the Badminton Club at South Dakota State University.
+Beyond academics, I am a National Level-2 Badminton Athlete (China) and currently serve as the President of the Badminton Club at South Dakota State University. The awards I received during my undergraduate studies are as follows:
 
 ### Selected Honors & Achievements
 

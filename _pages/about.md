@@ -110,7 +110,7 @@ I serve as a reviewer for the following prestigious journals:
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - IEEE Transactions on Vehicular Technology (TVT)
-- IEEE Transactions on Cybernetics (TYCB)
+- IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Network and Service Management (TNSM)
 - IEEE Internet of Things Journal (IoTJ)
 - IEEE Network Magazine

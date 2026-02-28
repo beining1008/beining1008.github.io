@@ -13,7 +13,7 @@ redirect_from:
 
 I am a Second-year Ph.D. student in Computer Science at South Dakota State University working at the intersection of wireless networking, edge intelligence, federated learning, and continual learning. My recent work explores how intelligent communication systems can efficiently adapt, learn, and operate under resource constraints in dynamic environments, with applications in UAV systems, vehicular networks, and smart healthcare infrastructures.
 
-My research has been published in leading IEEE journals and conferences, including IEEE TMC, IEEE/ACM ToN, IEEE TNSE, IEEE Network Magazine. I also contribute to the scholarly community as a reviewer for journals such as IEEE JSAC, IEEE TMC, IEEE IOTJ, IEEE TVT, IEEE TYCB, IEEE TNSM, ICT Express, and Digital Communications and Networks, etc. My broader goal is to advance adaptive and learning-driven communication systems that support scalable, autonomous, and trustworthy intelligence across distributed networks.
+My research has been published in leading IEEE journals and conferences, including IEEE/ACM ToN, IEEE TMC, IEEE COMST, IEEE TNSE, IEEE Network Magazine. I also contribute to the scholarly community as a reviewer for journals such as IEEE JSAC, IEEE TMC, IEEE IOTJ, IEEE TVT, IEEE TYCB, IEEE TNSM, ICT Express, and Digital Communications and Networks, etc. My broader goal is to advance adaptive and learning-driven communication systems that support scalable, autonomous, and trustworthy intelligence across distributed networks.
 
 ---
 
@@ -54,16 +54,20 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Selected Publications
 
-1. **Beining Wu**, Z. Ding, J. Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
+1. **Beining Wu**, Jun Huang, Shui Yu. <a href="https://arxiv.org/abs/2507.19657">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
 
-2. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903.
+2. **Beining Wu**, Z. Ding, J. Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
+
+3. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903.
    - 🏆 **ESI Hot Paper (Top 0.1% in Computer Science)**
 
-3. **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
+4. **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
 
-4. **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network Magazine*, 2025. DOI: 10.1109/MNET.2025.3565977.
+5. **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network Magazine*, 2025. DOI: 10.1109/MNET.2025.3565977.
 
 ### Journal Articles
+
+- **Beining Wu**, Jun Huang, Shui Yu. <a href="https://arxiv.org/abs/2507.19657">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
 
 - **Beining Wu**, Z. Ding, J. Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
 
@@ -73,8 +77,6 @@ My research has been published in leading IEEE journals and conferences, includi
   - **ESI Hot Paper (Top 0.1% in Computer Science)**
 
 - **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
-
-- **Beining Wu**, Jun Huang, Shui Yu. <a href="https://arxiv.org/abs/2507.19657">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
 
 - **Beining Wu**, Zhengkun Cai, Wei Wu, Xiaobin Yin. <a href="https://ieeexplore.ieee.org/abstract/document/10196328">"AoI-aware Resource Management for Smart Health via Deep Reinforcement Learning."</a> *IEEE Access*, Vol. 11, pp. 81180–81195, 2023.
 

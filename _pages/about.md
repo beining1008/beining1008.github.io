@@ -20,6 +20,7 @@ My research has been published in leading IEEE journals and conferences, includi
 <a name="news"></a>
 ## 🔥 News
 
+- **February 2026**: 📝 Our paper "``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems" was accepted by **IEEE Communications Surveys and Tutorials** (Impact Factor: 46.7).
 - **January 2026**: 📝 Our paper "A Review of Continual Learning in Edge AI" was accepted by **IEEE Transactions on Network Science and Engineering**.
 - **January 2026**: 🏆 Our paper "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating" was designated as an **ESI Hot Paper** (Top 0.1% in Computer Science).
 - **December 2025**: 📝 Our paper "Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture" was accepted by **ACM RACS 2025**.
@@ -73,6 +74,8 @@ My research has been published in leading IEEE journals and conferences, includi
 
 - **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
 
+- **Beining Wu**, Jun Huang, Shui Yu. <a href="https://arxiv.org/abs/2507.19657">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
+
 - **Beining Wu**, Zhengkun Cai, Wei Wu, Xiaobin Yin. <a href="https://ieeexplore.ieee.org/abstract/document/10196328">"AoI-aware Resource Management for Smart Health via Deep Reinforcement Learning."</a> *IEEE Access*, Vol. 11, pp. 81180–81195, 2023.
 
 - **Beining Wu**, Wei Wu. <a href="https://onlinelibrary.wiley.com/doi/full/10.1155/2023/6350647">"Model-Free Cooperative Optimal Output Regulation for Linear Discrete-Time Multi-Agent Systems Using Reinforcement Learning."</a> *Mathematical Problems in Engineering*, Vol. 2023, Article ID 6350647, 2023.
@@ -84,10 +87,6 @@ My research has been published in leading IEEE journals and conferences, includi
 - **Beining Wu**, Zihao Ding, Leo Ostigaard, Jun Huang. <a href="https://dl.acm.org/doi/10.1145/3769002.3769971">"Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture."</a> *Proceedings of the 2025 International Conference on Research in Adaptive and Convergent Systems (RACS)*, ACM, 2025.
 
 - **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://link.springer.com/chapter/10.1007/978-981-96-8725-1_2">"FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning."</a> *International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)*, Tokyo, Japan, June 2025.
-
-### Preprints & Manuscripts Under Review
-
-- **Beining Wu**, Jun Huang, Shui Yu. <a href="https://arxiv.org/abs/2507.19657">"``X of Information" Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials*, Major Revision, 2025. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
 
 ---
 
@@ -135,4 +134,4 @@ Beyond academics, I am a National Level-2 Badminton Athlete (China) and currentl
 
 ---
 
-*Last updated: January 2026*
+*Last updated: February 2026*

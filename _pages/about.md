@@ -13,7 +13,7 @@ redirect_from:
 
 I am a Second-year Ph.D. student in Computer Science at South Dakota State University working at the intersection of wireless networking, edge intelligence, federated learning, and continual learning. My recent work explores how intelligent communication systems can efficiently adapt, learn, and operate under resource constraints in dynamic environments, with applications in UAV systems, vehicular networks, and smart healthcare infrastructures.
 
-My research has been published in leading IEEE journals and conferences, including IEEE/ACM ToN, IEEE TMC, IEEE COMST, IEEE TNSE, IEEE Network Magazine. I also contribute to the scholarly community as a reviewer for journals such as IEEE JSAC, IEEE TMC, IEEE SMC, IEEE IOTJ, IEEE TVT, IEEE TYCB, IEEE TNSM, ICT Express, and Digital Communications and Networks, etc. My broader goal is to advance adaptive and learning-driven communication systems that support scalable, autonomous, and trustworthy intelligence across distributed networks.
+My research has been published in leading IEEE journals and conferences, including IEEE/ACM ToN, IEEE TMC, IEEE COMST, IEEE TNSE, IEEE Network Magazine. I also contribute to the scholarly community as a reviewer for journals such as IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE SMC, IEEE IOTJ, IEEE TVT, IEEE TYCB, IEEE TNSM, ICT Express, and Digital Communications and Networks, etc. My broader goal is to advance adaptive and learning-driven communication systems that support scalable, autonomous, and trustworthy intelligence across distributed networks.
 
 ---
 
@@ -108,6 +108,7 @@ I serve as a reviewer for the following prestigious journals:
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
 - IEEE Transactions on Mobile Computing (TMC)
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - IEEE Transactions on Vehicular Technology (TVT)

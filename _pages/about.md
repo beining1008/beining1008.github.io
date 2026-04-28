@@ -20,6 +20,7 @@ My research has been published in leading IEEE journals and conferences, includi
 <a name="news"></a>
 ## 🔥 News
 
+- **April 2026**: 📝 Our paper "SCALE: Sensitivity-Aware Federated Unlearning with Information Freshness Optimization for Mobile Edge Computing" was accepted by **IEEE ICDCS 2026** (acceptance rate: 18.59%).
 - **February 2026**: 📝 Our paper "``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems" was accepted by **IEEE Communications Surveys and Tutorials** (Impact Factor: 46.7).
 - **January 2026**: 📝 Our paper "A Review of Continual Learning in Edge AI" was accepted by **IEEE Transactions on Network Science and Engineering**.
 - **January 2026**: 🏆 Our paper "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating" was designated as an **ESI Hot Paper** (Top 0.1% in Computer Science).
@@ -86,6 +87,8 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Conference Papers
 
+- Zihao Ding, **Beining Wu**, Jun Huang. "SCALE: Sensitivity-Aware Federated Unlearning with Information Freshness Optimization for Mobile Edge Computing." *IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2026. (Acceptance rate: 18.59%)
+
 - **Beining Wu**, Zihao Ding, Leo Ostigaard, Jun Huang. <a href="https://dl.acm.org/doi/10.1145/3769002.3769971">"Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture."</a> *Proceedings of the 2025 International Conference on Research in Adaptive and Convergent Systems (RACS)*, ACM, 2025.
 
 - **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://link.springer.com/chapter/10.1007/978-981-96-8725-1_2">"FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning."</a> *International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)*, Tokyo, Japan, June 2025.
@@ -137,4 +140,4 @@ Beyond academics, I am a National Level-2 Badminton Athlete (China) and currentl
 
 ---
 
-*Last updated: February 2026*
+*Last updated: April 2026*

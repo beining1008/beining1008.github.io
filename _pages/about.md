@@ -55,7 +55,7 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Selected Publications
 
-1. **Beining Wu**, Jun Huang, Shui Yu. <a href="https://arxiv.org/abs/2507.19657">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
+1. **Beining Wu**, Jun Huang, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/11421338">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026.
 
 2. **Beining Wu**, Z. Ding, J. Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
 
@@ -68,7 +68,7 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Journal Articles
 
-- **Beining Wu**, Jun Huang, Shui Yu. <a href="https://arxiv.org/abs/2507.19657">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026. [arXiv:2507.19657](https://arxiv.org/abs/2507.19657)
+- **Beining Wu**, Jun Huang, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/11421338">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026.
 
 - **Beining Wu**, Z. Ding, J. Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
 

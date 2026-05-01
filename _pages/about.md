@@ -103,6 +103,9 @@ My research has been published in leading IEEE journals and conferences, includi
 - **Technical Program Committee (TPC) Member**
   - IEEE International Conference on Computing, Networking and Communications (ICNC), 2026
 
+- **Conference Reviewer**
+  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026
+
 ### Journal Reviewer
 
 I serve as a reviewer for the following prestigious journals:

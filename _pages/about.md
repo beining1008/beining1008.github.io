@@ -15,6 +15,8 @@ I am a Second-year Ph.D. student in Computer Science at South Dakota State Unive
 
 My research has been published in leading IEEE journals and conferences, including IEEE/ACM ToN, IEEE TMC, IEEE COMST, IEEE TNSE, IEEE Network Magazine. I also contribute to the scholarly community as a reviewer for journals such as IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE SMC, IEEE IOTJ, IEEE TVT, IEEE TYCB, IEEE TNSM, ICT Express, and Digital Communications and Networks, etc. My broader goal is to advance adaptive and learning-driven communication systems that support scalable, autonomous, and trustworthy intelligence across distributed networks.
 
+📧 **Contact**: wu[dot]beining[AT]jacks[dot]sdstate[dot]edu
+
 ---
 
 <a name="news"></a>
@@ -119,6 +121,7 @@ I serve as a reviewer for the following prestigious journals:
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - IEEE Transactions on Vehicular Technology (TVT)
 - IEEE Transactions on Cybernetics (TCYB)
+- IEEE Transactions on Green Communications and Networking (TGCN)
 - IEEE Transactions on Network and Service Management (TNSM)
 - IEEE Internet of Things Journal (IoTJ)
 - IEEE Network Magazine

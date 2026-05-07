@@ -22,6 +22,7 @@ My research has been published in leading IEEE journals and conferences, includi
 <a name="news"></a>
 ## 🔥 News
 
+- **April 2026**: 📝 Our paper "From Alpha to Omega: Lifecycle-Aware Forgetting Defense in Federated Continual Learning for Planetary Exploration" was accepted by **IEEE ICDCS 2026** (acceptance rate: 18.59%).
 - **April 2026**: 📝 Our paper "SCALE: Sensitivity-Aware Federated Unlearning with Information Freshness Optimization for Mobile Edge Computing" was accepted by **IEEE ICDCS 2026** (acceptance rate: 18.59%).
 - **February 2026**: 📝 Our paper "``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems" was accepted by **IEEE Communications Surveys and Tutorials** (Impact Factor: 46.7).
 - **January 2026**: 📝 Our paper "A Review of Continual Learning in Edge AI" was accepted by **IEEE Transactions on Network Science and Engineering**.
@@ -89,6 +90,8 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Conference Papers
 
+- **Beining Wu**, Jun Huang, Yanxiao Zhao. "From Alpha to Omega: Lifecycle-Aware Forgetting Defense in Federated Continual Learning for Planetary Exploration." *IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2026. (Acceptance rate: 18.59%)
+
 - Zihao Ding, **Beining Wu**, Jun Huang. "SCALE: Sensitivity-Aware Federated Unlearning with Information Freshness Optimization for Mobile Edge Computing." *IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2026. (Acceptance rate: 18.59%)
 
 - **Beining Wu**, Zihao Ding, Leo Ostigaard, Jun Huang. <a href="https://dl.acm.org/doi/10.1145/3769002.3769971">"Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture."</a> *Proceedings of the 2025 International Conference on Research in Adaptive and Convergent Systems (RACS)*, ACM, 2025.
@@ -119,9 +122,9 @@ I serve as a reviewer for the following prestigious journals:
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
+- IEEE Transactions on Green Communications and Networking (TGCN)
 - IEEE Transactions on Vehicular Technology (TVT)
 - IEEE Transactions on Cybernetics (TCYB)
-- IEEE Transactions on Green Communications and Networking (TGCN)
 - IEEE Transactions on Network and Service Management (TNSM)
 - IEEE Internet of Things Journal (IoTJ)
 - IEEE Network Magazine

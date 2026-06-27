@@ -11,7 +11,7 @@ redirect_from:
 <a name="about-me"></a>
 ## About Me
 
-I am a Second-year Ph.D. student in Computer Science at South Dakota State University working at the intersection of wireless networking, edge intelligence, federated learning, and continual learning. My recent work explores how intelligent communication systems can efficiently adapt, learn, and operate under resource constraints in dynamic environments, with applications in UAV systems, vehicular networks, and smart healthcare infrastructures.
+I am a Second-year Ph.D. student in Computer Science at South Dakota State University working at the intersection of wireless networking, edge intelligence, federated learning, and continual learning. My recent work centers on multimodal and LLM-based agents, with a focus on on-device continual learning and persistent agent memory that enable these systems to perceive, reason, and adapt to evolving tasks and environments over time.
 
 My research has been published in leading IEEE journals and conferences, including IEEE/ACM ToN, IEEE TMC, IEEE COMST, IEEE TNSE, IEEE Network Magazine. I also contribute to the scholarly community as a reviewer for journals such as IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE SMC, IEEE IOTJ, IEEE TVT, IEEE TYCB, IEEE TNSM, ICT Express, and Digital Communications and Networks, etc. My broader goal is to advance adaptive and learning-driven communication systems that support scalable, autonomous, and trustworthy intelligence across distributed networks.
 
@@ -98,6 +98,20 @@ My research has been published in leading IEEE journals and conferences, includi
 
 - **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://link.springer.com/chapter/10.1007/978-981-96-8725-1_2">"FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning."</a> *International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)*, Tokyo, Japan, June 2025.
 
+### Preprints
+
+- **Beining Wu**, Zihao Ding, Jun Huang, Yanxiao Zhao. <a href="https://arxiv.org/abs/2606.25115">"Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory."</a> *arXiv preprint arXiv:2606.25115*, 2026.
+
+- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"PRISM: Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *arXiv preprint arXiv:2605.01061*, 2026.
+
+- Zihao Ding, **Beining Wu**, Jun Huang. <a href="https://arxiv.org/abs/2605.00733">"EASE: Federated Multimodal Unlearning via Entanglement-Aware Anchor Closure."</a> *arXiv preprint arXiv:2605.00733*, 2026.
+
+- Zihao Ding, **Beining Wu**, Jun Huang, Shiwen Mao. <a href="https://arxiv.org/abs/2604.26105">"Application-Aware Twin-in-the-Loop Planning for Federated Split Learning over Wireless Edge Networks."</a> *arXiv preprint arXiv:2604.26105*, 2026.
+
+- **Beining Wu**, Jun Huang. <a href="https://arxiv.org/abs/2604.20745">"Lifecycle-Aware Federated Continual Learning in Mobile Autonomous Systems."</a> *arXiv preprint arXiv:2604.20745*, 2026.
+
+- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2604.04243">"RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge."</a> *arXiv preprint arXiv:2604.04243*, 2026.
+
 ---
 
 <a name="academic-services"></a>
@@ -123,6 +137,7 @@ I serve as a reviewer for the following prestigious journals:
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - IEEE Transactions on Green Communications and Networking (TGCN)
+- IEEE Transactions on Wireless Communications (TWC)
 - IEEE Transactions on Vehicular Technology (TVT)
 - IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Network and Service Management (TNSM)

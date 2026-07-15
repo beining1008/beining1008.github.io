@@ -11,9 +11,11 @@ redirect_from:
 <a name="about-me"></a>
 ## About Me
 
-I am a Second-year Ph.D. student in Computer Science at South Dakota State University working at the intersection of wireless networking, edge intelligence, federated learning, and continual learning. My recent work centers on multimodal and LLM-based agents, with a focus on on-device continual learning and persistent agent memory that enable these systems to perceive, reason, and adapt to evolving tasks and environments over time.
+I am a second-year Ph.D. student in Computer Science at South Dakota State University. I build **on-device and agentic AI systems**: LLM-based agents that reason, remember, and adapt reliably under real-world constraints. My current research centers on **reinforcement learning for post-training and reasoning, agent memory and experience governance, and how data and rewards shape what a model actually learns**.
 
-My research has been published in leading IEEE journals and conferences, including IEEE/ACM ToN, IEEE TMC, IEEE COMST, IEEE TNSE, IEEE Network Magazine. I also contribute to the scholarly community as a reviewer for journals such as IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE SMC, IEEE IOTJ, IEEE TVT, IEEE TYCB, IEEE TNSM, ICT Express, and Digital Communications and Networks, etc. My broader goal is to advance adaptive and learning-driven communication systems that support scalable, autonomous, and trustworthy intelligence across distributed networks.
+This work is grounded in a strong publication record (<b><span id='total_cit'>530+</span> citations, h-index 10</b> on <a href="https://scholar.google.com/citations?user=UX2048QAAAAJ">Google Scholar</a>) across leading IEEE venues, including IEEE/ACM ToN, IEEE TMC, IEEE COMST (IF 46.7), and IEEE TNSE, spanning LLM agents, on-device learning, and efficient edge intelligence. I also serve the community as a reviewer for IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE IoTJ, and others.
+
+**Research Interests:** Agentic AI &amp; LLM Agents · Reinforcement Learning for Post-Training &amp; Reasoning · Agent Memory &amp; Experience Governance · Data-Centric ML &amp; Training Reliability · On-Device / Edge AI Systems
 
 📧 **Contact**: wu[dot]beining[AT]jacks[dot]sdstate[dot]edu
 
@@ -22,6 +24,7 @@ My research has been published in leading IEEE journals and conferences, includi
 <a name="news"></a>
 ## 🔥 News
 
+- **July 2026**: 🤖 Released **CURATOR**, our work on budget-curated experience memory for self-evolving **on-device LLM agents**, as a <a href="https://arxiv.org/abs/2606.25115">preprint on arXiv</a>.
 - **July 2026**: 🏆 Our paper "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization" was designated as an **ESI Highly Cited Paper** (Top 1% in Computer Science).
 - **April 2026**: 📝 Our paper "From Alpha to Omega: Lifecycle-Aware Forgetting Defense in Federated Continual Learning for Planetary Exploration" was accepted by **IEEE ICDCS 2026** (acceptance rate: 18.59%).
 - **April 2026**: 📝 Our paper "SCALE: Sensitivity-Aware Federated Unlearning with Information Freshness Optimization for Mobile Edge Computing" was accepted by **IEEE ICDCS 2026** (acceptance rate: 18.59%).
@@ -59,17 +62,22 @@ My research has been published in leading IEEE journals and conferences, includi
 
 ### Selected Publications
 
-1. **Beining Wu**, Jun Huang, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/11421338">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026.
+*Agentic AI, LLM agents, and on-device learning*
 
-2. **Beining Wu**, Z. Ding, J. Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
+1. **Beining Wu**, Zihao Ding, Jun Huang, Yanxiao Zhao. <a href="https://arxiv.org/abs/2606.25115">"Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory."</a> *arXiv preprint*, 2026.
 
-3. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025. DOI: 10.1109/TMC.2025.3544903.
+2. **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026.
+
+3. **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"PRISM: Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *arXiv preprint*, 2026.
+
+*High-impact venues (credibility)*
+
+4. **Beining Wu**, Jun Huang, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/11421338">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026.
+
+5. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025.
    - 🏆 **ESI Hot Paper (Top 0.1% in Computer Science)**
 
-4. **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025. DOI: 10.1109/TON.2025.3625084.
-
-5. **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network Magazine*, 2025. DOI: 10.1109/MNET.2025.3565977.
-   - 🏆 **ESI Highly Cited Paper (Top 1% in Computer Science)**
+6. **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025.
 
 ### Journal Articles
 

@@ -8,6 +8,23 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.scroll-panel {
+  overflow-y: auto;
+  padding: 0.4em 1.2em;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fcfcfc;
+  margin: 0.6em 0 1.2em;
+  scrollbar-width: thin;
+  scrollbar-color: #cbcbcb transparent;
+}
+.scroll-panel::-webkit-scrollbar { width: 8px; }
+.scroll-panel::-webkit-scrollbar-thumb { background: #cbcbcb; border-radius: 4px; }
+.scroll-panel::-webkit-scrollbar-thumb:hover { background: #a5a5a5; }
+.scroll-panel::-webkit-scrollbar-track { background: transparent; }
+</style>
+
 <a name="about-me"></a>
 ## About Me
 
@@ -24,6 +41,8 @@ This work is grounded in a strong publication record (<b>541 citations, h-index 
 <a name="news"></a>
 ## 🔥 News
 
+<div class="scroll-panel" markdown="1" style="max-height: 360px;">
+
 - **July 2026**: 🤖 Released **CURATOR**, our work on budget-curated experience memory for self-evolving **on-device LLM agents**, as a <a href="https://arxiv.org/abs/2606.25115">preprint on arXiv</a>.
 - **July 2026**: 🏆 Our paper "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization" was designated as an **ESI Highly Cited Paper** (Top 1% in Computer Science).
 - **April 2026**: 📝 Our paper "From Alpha to Omega: Lifecycle-Aware Forgetting Defense in Federated Continual Learning for Planetary Exploration" was accepted by **IEEE ICDCS 2026** (acceptance rate: 18.59%).
@@ -38,6 +57,8 @@ This work is grounded in a strong publication record (<b>541 citations, h-index 
 - **April 2025**: 📝 Our paper "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization" was accepted by **IEEE Network Magazine**.
 - **February 2025**: 🎉 Our paper "A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems" was accepted by **IEEE Transactions on Mobile Computing**.
 - **September 2024**: 🎓 Started PhD program in Computer Science at South Dakota State University, advised by Prof. Jun Huang.
+
+</div>
 
 ---
 
@@ -55,6 +76,8 @@ This work is grounded in a strong publication record (<b>541 citations, h-index 
 
 <a name="publications"></a>
 ## 📝 Publications
+
+<div class="scroll-panel" markdown="1" style="max-height: 520px;">
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
@@ -123,6 +146,8 @@ This work is grounded in a strong publication record (<b>541 citations, h-index 
 
 - **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2604.04243">"RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge."</a> *arXiv preprint arXiv:2604.04243*, 2026.
 
+</div>
+
 ---
 
 <a name="academic-services"></a>
@@ -152,6 +177,7 @@ I serve as a reviewer for the following prestigious journals:
 - IEEE Transactions on Vehicular Technology (TVT)
 - IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Network and Service Management (TNSM)
+- IEEE Open Journal of Intelligent Transportation Systems (OJITS)
 - IEEE Internet of Things Journal (IoTJ)
 - IEEE Network Magazine
 - IEEE Access

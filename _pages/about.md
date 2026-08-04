@@ -43,6 +43,7 @@ This work is grounded in a strong publication record (<b>541 citations, h-index 
 
 <div class="scroll-panel" markdown="1" style="max-height: 360px;">
 
+- **August 2026**: 🤖 Released **CrystalMem**, our work on elastic memory and knowledge crystallization for **self-evolving LLM agents**, as a <a href="https://arxiv.org/abs/2608.00303">preprint on arXiv</a>.
 - **July 2026**: 🤖 Released **CURATOR**, our work on budget-curated experience memory for self-evolving **on-device LLM agents**, as a <a href="https://arxiv.org/abs/2606.25115">preprint on arXiv</a>.
 - **July 2026**: 🏆 Our paper "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization" was designated as an **ESI Highly Cited Paper** (Top 1% in Computer Science).
 - **April 2026**: 📝 Our paper "From Alpha to Omega: Lifecycle-Aware Forgetting Defense in Federated Continual Learning for Planetary Exploration" was accepted by **IEEE ICDCS 2026** (acceptance rate: 18.59%).
@@ -134,6 +135,8 @@ This work is grounded in a strong publication record (<b>541 citations, h-index 
 
 ### Preprints
 
+- **Beining Wu**, Jun Huang. <a href="https://arxiv.org/abs/2608.00303">"CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization."</a> *arXiv preprint arXiv:2608.00303*, 2026.
+
 - **Beining Wu**, Zihao Ding, Jun Huang, Yanxiao Zhao. <a href="https://arxiv.org/abs/2606.25115">"Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory."</a> *arXiv preprint arXiv:2606.25115*, 2026.
 
 - **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"PRISM: Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *arXiv preprint arXiv:2605.01061*, 2026.
@@ -201,4 +204,4 @@ Beyond academics, I am a National Level-2 Badminton Athlete (China) and currentl
 
 ---
 
-*Last updated: July 2026*
+*Last updated: August 2026*

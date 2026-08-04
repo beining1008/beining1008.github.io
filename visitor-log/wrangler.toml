@@ -1,0 +1,16 @@
+# Deployed separately from the Jekyll site. See README.md in this folder.
+# The name below becomes part of the public URL (<name>.<subdomain>.workers.dev),
+# and that URL is visible in the page source of the site, so it is deliberately
+# unremarkable.
+name = "edge-metrics"
+main = "src/worker.js"
+compatibility_date = "2024-11-01"
+
+# Created with: npx wrangler kv namespace create VISITS
+# Paste the returned id below.
+[[kv_namespaces]]
+binding = "VISITS"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+# DASH_KEY is NOT set here. It is a secret:
+#   npx wrangler secret put DASH_KEY

@@ -15,6 +15,10 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
+# visitor log (self-hosted Cloudflare Worker; source and deploy steps in /visitor-log/)
+# Paste the deployed Worker URL here, no trailing slash. Empty = beacon disabled.
+visitor_log_endpoint     : ""
+
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
@@ -68,6 +72,7 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - visitor-log
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

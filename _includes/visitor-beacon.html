@@ -1,0 +1,32 @@
+{% comment %}
+  Visitor beacon. Worker source and deploy steps: /visitor-log/
+
+  Set `visitor_log_endpoint` in _config.yml to the deployed Worker URL, e.g.
+      visitor_log_endpoint: "https://edge-metrics.<subdomain>.workers.dev"
+  Until it is set, this include emits nothing at all.
+
+  Two signals on purpose:
+    - the <img> fires in anything that renders the page, JS or not
+    - the script fires only where JavaScript actually executes
+  A hit on the first but not the second is a fetcher that does not run scripts,
+  which is what an email security gateway usually looks like.
+{% endcomment %}
+
+{% if site.visitor_log_endpoint and site.visitor_log_endpoint != "" %}
+<img src="{{ site.visitor_log_endpoint }}/px.gif?p={{ page.url | uri_escape }}"
+     alt="" width="1" height="1" aria-hidden="true"
+     style="position:absolute;width:1px;height:1px;opacity:0;pointer-events:none">
+<script>
+  (function () {
+    try {
+      var q =
+        '?js=1&p=' + encodeURIComponent(location.pathname) +
+        '&r=' + encodeURIComponent(document.referrer || '') +
+        '&_=' + Date.now();
+      new Image().src = '{{ site.visitor_log_endpoint }}/collect' + q;
+    } catch (e) {
+      /* never let the beacon break the page */
+    }
+  })();
+</script>
+{% endif %}

@@ -10,14 +10,10 @@
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
   {% endif %}
-  
-  <!-- MapMyVisitors (formerly ClustrMaps) Visitor Location Widget -->
-  <div style="margin-top: 2em;">
-    <!-- 2026-08-04: token hITl9Pq1... started returning HTTP 500 (an HTML error page,
-         not JS) from mapmyvisitors.com, so the widget rendered nothing. Reverted to the
-         pre-2026-05-27 token, which still serves valid JS. -->
-    <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=zcKsgs8kNMzvRK_kuyZiuRBJ995e7JyoAjE-Ii3ovdQ&cl=ffffff&w=a"></script>
-  </div>
-  
+
+  <!-- 2026-08-05: removed the MapMyVisitors (ClustrMaps) widget. It announced to every
+       visitor that their location was being plotted, and the self-hosted visitor log
+       (/visitor-log/) records strictly more without a public dot map. -->
+
   </div>
 {% endif %}

@@ -6,11 +6,11 @@ name = "edge-metrics"
 main = "src/worker.js"
 compatibility_date = "2024-11-01"
 
-# Created with: npx wrangler kv namespace create VISITS
-# Paste the returned id below.
+# Created 2026-08-05 with: npx wrangler kv namespace create VISITS
+# Not a secret -- a namespace id is useless without account credentials.
 [[kv_namespaces]]
 binding = "VISITS"
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+id = "ea0b3df521ce47c4a9169d9253815b03"
 
 # DASH_KEY is NOT set here. It is a secret:
 #   npx wrangler secret put DASH_KEY

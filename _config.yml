@@ -17,7 +17,7 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 
 # visitor log (self-hosted Cloudflare Worker; source and deploy steps in /visitor-log/)
 # Paste the deployed Worker URL here, no trailing slash. Empty = beacon disabled.
-visitor_log_endpoint     : ""
+visitor_log_endpoint     : "https://edge-metrics.wbn6167.workers.dev"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about

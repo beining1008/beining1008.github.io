@@ -137,6 +137,8 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 
 ### Preprints
 
+- Dhe Yeong Tchalla, **Beining Wu**, Jun Huang, Shuyang Gu, Qiang Duan. <a href="https://arxiv.org/abs/2608.07730">"FedSceneX: Time-to-Target Orchestration for Same-Scene Multimodal Federated Edge Learning."</a> *arXiv preprint arXiv:2608.07730*, 2026.
+
 - **Beining Wu**, Jun Huang. <a href="https://arxiv.org/abs/2608.00303">"CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization."</a> *arXiv preprint arXiv:2608.00303*, 2026.
 
 - **Beining Wu**, Zihao Ding, Jun Huang, Yanxiao Zhao. <a href="https://arxiv.org/abs/2606.25115">"Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory."</a> *arXiv preprint arXiv:2606.25115*, 2026.

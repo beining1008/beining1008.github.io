@@ -43,6 +43,7 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 
 <div class="scroll-panel" markdown="1" style="max-height: 360px;">
 
+- **August 2026**: 📝 Our paper "RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge" was accepted by the **IEEE Internet of Things Journal**.
 - **August 2026**: 🤖 Released **CrystalMem**, our work on elastic memory and knowledge crystallization for **self-evolving LLM agents**, as a <a href="https://arxiv.org/abs/2608.00303">preprint on arXiv</a>.
 - **July 2026**: 🤖 Released **CURATOR**, our work on budget-curated experience memory for self-evolving **on-device LLM agents**, as a <a href="https://arxiv.org/abs/2606.25115">preprint on arXiv</a>.
 - **July 2026**: 🏆 Our paper "Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization" was designated as an **ESI Highly Cited Paper** (Top 1% in Computer Science).
@@ -111,6 +112,8 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 
 - **Beining Wu**, Z. Ding, J. Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
 
+- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2604.04243">"RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge."</a> *IEEE Internet of Things Journal*, 2026. (Accepted, in press)
+
 - **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network*, 2025. DOI: 10.1109/MNET.2025.3565977.
   - **ESI Highly Cited Paper (Top 1% in Computer Science)**
 
@@ -150,8 +153,6 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 - Zihao Ding, **Beining Wu**, Jun Huang, Shiwen Mao. <a href="https://arxiv.org/abs/2604.26105">"Application-Aware Twin-in-the-Loop Planning for Federated Split Learning over Wireless Edge Networks."</a> *arXiv preprint arXiv:2604.26105*, 2026.
 
 - **Beining Wu**, Jun Huang. <a href="https://arxiv.org/abs/2604.20745">"Lifecycle-Aware Federated Continual Learning in Mobile Autonomous Systems."</a> *arXiv preprint arXiv:2604.20745*, 2026.
-
-- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2604.04243">"RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge."</a> *arXiv preprint arXiv:2604.04243*, 2026.
 
 </div>
 

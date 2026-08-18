@@ -43,6 +43,7 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 
 <div class="scroll-panel" markdown="1" style="max-height: 360px;">
 
+- **August 2026**: 📝 Our paper "Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning" was accepted as a regular paper by the **IEEE Transactions on Multimedia**.
 - **August 2026**: 📝 Our paper "RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge" was accepted by the **IEEE Internet of Things Journal**.
 - **August 2026**: 🤖 Released **CrystalMem**, our work on elastic memory and knowledge crystallization for **self-evolving LLM agents**, as a <a href="https://arxiv.org/abs/2608.00303">preprint on arXiv</a>.
 - **July 2026**: 🤖 Released **CURATOR**, our work on budget-curated experience memory for self-evolving **on-device LLM agents**, as a <a href="https://arxiv.org/abs/2606.25115">preprint on arXiv</a>.
@@ -95,7 +96,7 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 
 3. **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026.
 
-4. **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"PRISM: Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *arXiv preprint*, 2026.
+4. **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *IEEE Transactions on Multimedia*, 2026. (Accepted, in press)
 
 *High-impact venues (credibility)*
 
@@ -111,6 +112,8 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 - **Beining Wu**, Jun Huang, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/11421338">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026.
 
 - **Beining Wu**, Z. Ding, J. Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
+
+- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *IEEE Transactions on Multimedia*, 2026. (Accepted, in press)
 
 - **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2604.04243">"RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge."</a> *IEEE Internet of Things Journal*, 2026. (Accepted, in press)
 
@@ -145,8 +148,6 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 - **Beining Wu**, Jun Huang. <a href="https://arxiv.org/abs/2608.00303">"CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization."</a> *arXiv preprint arXiv:2608.00303*, 2026.
 
 - **Beining Wu**, Zihao Ding, Jun Huang, Yanxiao Zhao. <a href="https://arxiv.org/abs/2606.25115">"Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory."</a> *arXiv preprint arXiv:2606.25115*, 2026.
-
-- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"PRISM: Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *arXiv preprint arXiv:2605.01061*, 2026.
 
 - Zihao Ding, **Beining Wu**, Jun Huang. <a href="https://arxiv.org/abs/2605.00733">"EASE: Federated Multimodal Unlearning via Entanglement-Aware Anchor Closure."</a> *arXiv preprint arXiv:2605.00733*, 2026.
 

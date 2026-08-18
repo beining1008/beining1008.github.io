@@ -96,16 +96,16 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 
 3. **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026.
 
-4. **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *IEEE Transactions on Multimedia*, 2026. (Accepted, in press)
-
 *High-impact venues (credibility)*
 
-5. **Beining Wu**, Jun Huang, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/11421338">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026.
+4. **Beining Wu**, Jun Huang, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/11421338">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026.
 
-6. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025.
+5. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025.
    - 🏆 **ESI Hot Paper (Top 0.1% in Computer Science)**
 
-7. **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025.
+6. **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025.
+
+7. **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *IEEE Transactions on Multimedia*, 2026. (Accepted, in press)
 
 ### Journal Articles
 

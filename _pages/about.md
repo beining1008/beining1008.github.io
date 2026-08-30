@@ -165,7 +165,7 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 ### Conference Services
 
 - **Technical Program Committee (TPC) Member**
-  - IEEE International Conference on Computing, Networking and Communications (ICNC), 2026
+  - IEEE International Conference on Computing, Networking and Communications (ICNC), 2026, 2027
 
 - **Conference Reviewer**
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026

@@ -30,7 +30,7 @@ redirect_from:
 
 I am a second-year Ph.D. student in Computer Science at South Dakota State University. I build **on-device and agentic AI systems**: LLM-based agents that reason, remember, and adapt reliably under real-world constraints. My current research centers on **reinforcement learning for post-training and reasoning, agent memory and experience governance, and how data and rewards shape what a model actually learns**.
 
-This work is grounded in a strong publication record (<b>648 citations, h-index 11, i10-index 12</b> on <a href="https://scholar.google.com/citations?user=UX2048QAAAAJ">Google Scholar</a>) across leading IEEE venues, including IEEE TMM, IEEE/ACM ToN, IEEE TMC, IEEE COMST (IF 46.7), IEEE TNSE, and IEEE IoTJ, spanning LLM agents, on-device learning, and efficient edge intelligence. I also serve the community as a reviewer for IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE IoTJ, and others.
+This work is grounded in a strong publication record (<b>676 citations, h-index 11, i10-index 12</b> on <a href="https://scholar.google.com/citations?user=UX2048QAAAAJ">Google Scholar</a>) across leading IEEE venues, including IEEE TMM, IEEE/ACM ToN, IEEE TMC, IEEE COMST (IF 46.7), IEEE TNSE, and IEEE IoTJ, spanning LLM agents, on-device learning, and efficient edge intelligence. I also serve the community as a reviewer for IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE IoTJ, and others.
 
 **Research Interests:** Agentic AI &amp; LLM Agents · Reinforcement Learning for Post-Training &amp; Reasoning · Agent Memory &amp; Experience Governance · Data-Centric ML &amp; Training Reliability · On-Device / Edge AI Systems
 
@@ -186,7 +186,7 @@ The on-device numbers in these papers come from hardware I built and maintain: t
 
 - **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *IEEE Transactions on Multimedia*, 2026. (Accepted, in press)
 
-- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2604.04243">"RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge."</a> *IEEE Internet of Things Journal*, 2026. (Accepted, in press)
+- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2604.04243">"RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge."</a> *IEEE Internet of Things Journal*, 2026. DOI: 10.1109/JIOT.2026.3725593.
 
 - **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network*, 2025. DOI: 10.1109/MNET.2025.3565977.
   - **ESI Highly Cited Paper (Top 1% in Computer Science)**
@@ -263,6 +263,7 @@ I serve as a reviewer for the following prestigious journals:
 - IEEE Access
 
 **Other Journals:**
+- High-Confidence Computing
 - ICT Express
 - Digital Communications and Networks
 - International Journal of Communication Systems
@@ -281,4 +282,4 @@ Beyond academics, I am a National Level-2 Badminton Athlete (China) and currentl
 
 ---
 
-*Last updated: August 2026*
+*Last updated: September 2026*

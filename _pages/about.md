@@ -131,6 +131,15 @@ Zihao Ding, **Beining Wu**, Jun Huang. *IEEE International Conference on Distrib
 
 ### Edge AI Systems and On-Device Deployment
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE IoTJ</div><a href="https://ieeexplore.ieee.org/document/11659556"><img src="/images/pub_iotj.png" alt="Modality-aligned column-block federated learning across heterogeneous IoT edge devices" width="100%" /></a></div></div>
+<div class="paper-box-text" markdown="1">
+
+<a href="https://ieeexplore.ieee.org/document/11659556">RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge</a>
+
+**Beining Wu**, Zihao Ding, Jun Huang. *IEEE Internet of Things Journal*, 2026.
+
+</div></div>
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE/ACM ToN</div><a href="https://ieeexplore.ieee.org/document/11223099"><img src="/images/pub_ton.png" alt="Wireless federated learning for vehicular platooning" width="100%" /></a></div></div>
 <div class="paper-box-text" markdown="1">
 
@@ -146,15 +155,6 @@ Zihao Ding, **Beining Wu**, Jun Huang. *IEEE International Conference on Distrib
 <a href="https://ieeexplore.ieee.org/document/10980319">Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization</a>
 
 **Beining Wu**, Jun Huang, Qiang Duan. *IEEE Network*, 2025. **ESI Highly Cited Paper (Top 1%)**
-
-</div></div>
-
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE TMC</div><a href="https://ieeexplore.ieee.org/abstract/document/10900454"><img src="/images/pub_tmc.png" alt="UAV trajectory planning in RIS-assisted communication systems" width="100%" /></a></div></div>
-<div class="paper-box-text" markdown="1">
-
-<a href="https://ieeexplore.ieee.org/abstract/document/10900454">A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating</a>
-
-Jun Huang, **Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. *IEEE Transactions on Mobile Computing*, 2025. **ESI Hot Paper (Top 0.1%)**
 
 </div></div>
 
@@ -186,7 +186,7 @@ The on-device numbers in these papers come from hardware I built and maintain: t
 
 - **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *IEEE Transactions on Multimedia*, 2026. (Accepted, in press)
 
-- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2604.04243">"RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge."</a> *IEEE Internet of Things Journal*, 2026. DOI: 10.1109/JIOT.2026.3725593.
+- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://ieeexplore.ieee.org/document/11659556">"RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge."</a> *IEEE Internet of Things Journal*, 2026. DOI: 10.1109/JIOT.2026.3725593.
 
 - **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://ieeexplore.ieee.org/document/10980319">"Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization."</a> *IEEE Network*, 2025. DOI: 10.1109/MNET.2025.3565977.
   - **ESI Highly Cited Paper (Top 1% in Computer Science)**

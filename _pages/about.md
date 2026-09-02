@@ -77,6 +77,98 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 
 ---
 
+<a name="research"></a>
+## 🔬 Research
+
+### Self-Evolving Agents and Experience Memory
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Preprint</div><a href="https://arxiv.org/abs/2608.00303"><img src="/images/pub_crystalmem.png" alt="CrystalMem elastic stage loop" width="100%" /></a></div></div>
+<div class="paper-box-text" markdown="1">
+
+<a href="https://arxiv.org/abs/2608.00303">CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization</a>
+
+**Beining Wu**, Jun Huang. *arXiv preprint*, 2026.
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Preprint</div><a href="https://arxiv.org/abs/2606.25115"><img src="/images/pub_curator.png" alt="Budget-curated experience memory governing keep, share, and trust" width="100%" /></a></div></div>
+<div class="paper-box-text" markdown="1">
+
+<a href="https://arxiv.org/abs/2606.25115">Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory</a>
+
+**Beining Wu**, Zihao Ding, Jun Huang, Yanxiao Zhao. *arXiv preprint*, 2026.
+
+</div></div>
+
+### Verified Deletion and Privacy-Preserving Learning
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICDCS 2026</div><a href="https://ieeexplore.ieee.org/document/11619012"><img src="/images/pub_alphaomega.png" alt="Lifecycle-aware forgetting defense in federated continual learning" width="100%" /></a></div></div>
+<div class="paper-box-text" markdown="1">
+
+<a href="https://ieeexplore.ieee.org/document/11619012">From Alpha to Omega: Lifecycle-Aware Forgetting Defense in Federated Continual Learning for Planetary Exploration</a>
+
+**Beining Wu**, Jun Huang, Yanxiao Zhao. *IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2026.
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICDCS 2026</div><a href="https://ieeexplore.ieee.org/document/11619120"><img src="/images/pub_scale.png" alt="Federated unlearning at the mobile edge" width="100%" /></a></div></div>
+<div class="paper-box-text" markdown="1">
+
+<a href="https://ieeexplore.ieee.org/document/11619120">SCALE: Sensitivity-Aware Federated Unlearning with Information Freshness Optimization for Mobile Edge Computing</a>
+
+Zihao Ding, **Beining Wu**, Jun Huang. *IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2026.
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE TMM 2026</div><a href="https://arxiv.org/abs/2605.01061"><img src="/images/pub_tmm.png" alt="Federated multimodal continual learning framework" width="100%" /></a></div></div>
+<div class="paper-box-text" markdown="1">
+
+<a href="https://arxiv.org/abs/2605.01061">Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning</a>
+
+**Beining Wu**, Zihao Ding, Jun Huang. *IEEE Transactions on Multimedia*, 2026.
+
+</div></div>
+
+### Edge AI Systems and On-Device Deployment
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE/ACM ToN</div><a href="https://ieeexplore.ieee.org/document/11223099"><img src="/images/pub_ton.png" alt="Wireless federated learning for vehicular platooning" width="100%" /></a></div></div>
+<div class="paper-box-text" markdown="1">
+
+<a href="https://ieeexplore.ieee.org/document/11223099">Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework</a>
+
+**Beining Wu**, Jun Huang, Qiang Duan, et al. *IEEE/ACM Transactions on Networking*, 2025.
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE Network</div><a href="https://ieeexplore.ieee.org/document/10980319"><img src="/images/pub_network.png" alt="Federated digital twins with age-of-information optimization" width="100%" /></a></div></div>
+<div class="paper-box-text" markdown="1">
+
+<a href="https://ieeexplore.ieee.org/document/10980319">Real-time Intelligent Healthcare Enabled by Federated Digital Twins with AoI Optimization</a>
+
+**Beining Wu**, Jun Huang, Qiang Duan. *IEEE Network*, 2025. **ESI Highly Cited Paper (Top 1%)**
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE TMC</div><a href="https://ieeexplore.ieee.org/abstract/document/10900454"><img src="/images/pub_tmc.png" alt="UAV trajectory planning in RIS-assisted communication systems" width="100%" /></a></div></div>
+<div class="paper-box-text" markdown="1">
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10900454">A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating</a>
+
+Jun Huang, **Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. *IEEE Transactions on Mobile Computing*, 2025. **ESI Hot Paper (Top 0.1%)**
+
+</div></div>
+
+### Experimental Infrastructure
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Testbed</div><img src="/images/research_testbed.jpg" alt="Jetson AGX Orin and AGX Thor nodes with Panthera-HT manipulator arms" width="100%" /></div></div>
+<div class="paper-box-text" markdown="1">
+
+The on-device numbers in these papers come from hardware I built and maintain: two NVIDIA Jetson AGX Orin 64 GB nodes with manipulator arms, a Jetson AGX Thor 128 GB hub, and four Raspberry Pi 5 rovers on real 802.11ac links. Power is read per rail from INA3221 sensors and `tegrastats`. Cloud-side training and serving run on an A100/H100 cluster.
+
+</div></div>
+
+---
+
 <a name="publications"></a>
 ## 📝 Publications
 
@@ -85,27 +177,6 @@ This work is grounded in a strong publication record (<b>648 citations, h-index 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-
-### Selected Publications
-
-*Agentic AI, LLM agents, and on-device learning*
-
-1. **Beining Wu**, Jun Huang. <a href="https://arxiv.org/abs/2608.00303">"CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization."</a> *arXiv preprint*, 2026.
-
-2. **Beining Wu**, Zihao Ding, Jun Huang, Yanxiao Zhao. <a href="https://arxiv.org/abs/2606.25115">"Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory."</a> *arXiv preprint*, 2026.
-
-3. **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026.
-
-*High-impact venues (credibility)*
-
-4. **Beining Wu**, Jun Huang, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/11421338">"``X of Information'' Continuum: A Survey on AI-Driven Multi-Dimensional Metrics for Next-Generation Networked Systems."</a> *IEEE Communications Surveys and Tutorials* (IF: 46.7), 2026.
-
-5. **Jun Huang, Beining Wu**, Qiang Duan, Liang Dong, Shui Yu. <a href="https://ieeexplore.ieee.org/abstract/document/10900454">"A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems with Accelerated Learning via Multithreading and Federating."</a> *IEEE Transactions on Mobile Computing*, 2025.
-   - 🏆 **ESI Hot Paper (Top 0.1% in Computer Science)**
-
-6. **Beining Wu**, Jun Huang, Qiang Duan, et al. <a href="https://ieeexplore.ieee.org/document/11223099">"Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework."</a> *IEEE/ACM Transactions on Networking*, 2025.
-
-7. **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *IEEE Transactions on Multimedia*, 2026. (Accepted, in press)
 
 ### Journal Articles
 

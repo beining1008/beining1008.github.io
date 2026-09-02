@@ -6,6 +6,8 @@ main:
     url: "#news"
   - title: "Background"
     url: "#background"
+  - title: "Research"
+    url: "#research"
   - title: "Publications"
     url: "#publications"
   - title: "Academic Services"

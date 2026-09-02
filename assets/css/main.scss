@@ -107,3 +107,15 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Wider content column.
+   Susy caps #main at the $large container (925px) and only lifts it to
+   $x-large (1280px) once the viewport is that wide, so a 1000-1279px window
+   reads much narrower than the screen allows. Let it grow in both bands. */
+#main {
+    max-width: 1180px;
+
+    @include breakpoint($x-large) {
+        max-width: 1440px;
+    }
+}

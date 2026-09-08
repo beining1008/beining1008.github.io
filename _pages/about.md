@@ -43,6 +43,7 @@ This work is grounded in a strong publication record (<b>676 citations, h-index 
 
 <div class="scroll-panel" markdown="1" style="max-height: 360px;">
 
+- **September 2026**: 🏆 Our Discover proposal "Budget-Governed Memory and Post-Deployment Learning for Self-Evolving Language-Model Agents" was approved by **NSF ACCESS** (PI, 750,000 ACCESS Credits, 2026–2027).
 - **August 2026**: 📝 Our paper "Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning" was accepted as a regular paper by the **IEEE Transactions on Multimedia**.
 - **August 2026**: 📝 Our paper "RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge" was accepted by the **IEEE Internet of Things Journal**.
 - **August 2026**: 🤖 Released **CrystalMem**, our work on elastic memory and knowledge crystallization for **self-evolving LLM agents**, as a <a href="https://arxiv.org/abs/2608.00303">preprint on arXiv</a>.
@@ -70,7 +71,8 @@ This work is grounded in a strong publication record (<b>676 citations, h-index 
 
 • **South Dakota State University**, Brookings, USA (2024 - present)  
   PhD Student, Computer Science  
-  Advisor: Prof. Jun Huang
+  Advisor: Prof. Jun Huang  
+  PI, NSF ACCESS Discover Allocation (2026 - 2027)
 
 • **Anhui Normal University**, Wuhu, China (2020 - 2024)  
   Bachelor of Science, Mathematics and Applied Mathematics

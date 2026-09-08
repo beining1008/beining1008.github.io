@@ -71,8 +71,7 @@ This work is grounded in a strong publication record (<b>676 citations, h-index 
 
 • **South Dakota State University**, Brookings, USA (2024 - present)  
   PhD Student, Computer Science  
-  Advisor: Prof. Jun Huang  
-  PI, NSF ACCESS Discover Allocation (2026 - 2027)
+  Advisor: Prof. Jun Huang
 
 • **Anhui Normal University**, Wuhu, China (2020 - 2024)  
   Bachelor of Science, Mathematics and Applied Mathematics
@@ -165,7 +164,7 @@ Zihao Ding, **Beining Wu**, Jun Huang. *IEEE International Conference on Distrib
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">Testbed</div><img src="/images/research_testbed.jpg" alt="Jetson AGX Orin and AGX Thor nodes with Panthera-HT manipulator arms" width="100%" /></div></div>
 <div class="paper-box-text" markdown="1">
 
-The on-device numbers in these papers come from hardware I built and maintain: two NVIDIA Jetson AGX Orin 64 GB nodes with manipulator arms, a Jetson AGX Thor 128 GB hub, and four Raspberry Pi 5 rovers on real 802.11ac links. Power is read per rail from INA3221 sensors and `tegrastats`. Cloud-side training and serving run on an A100/H100 cluster.
+The on-device numbers in these papers come from hardware I built and maintain: two NVIDIA Jetson AGX Orin 64 GB nodes with manipulator arms, a Jetson AGX Thor 128 GB hub, and four Raspberry Pi 5 rovers on real 802.11ac links. Power is read per rail from INA3221 sensors and `tegrastats`. Cloud-side training and serving run on an A100/H100 cluster. Large-scale runs draw on an NSF ACCESS Discover allocation I hold as PI (750,000 ACCESS Credits, Sep 2026 – Sep 2027, project CIS261777; Co-PI: Jun Huang).
 
 </div></div>
 

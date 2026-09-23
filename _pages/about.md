@@ -30,7 +30,7 @@ redirect_from:
 
 I am a third-year Ph.D. student in Computer Science at South Dakota State University. I build **on-device and agentic AI systems**: LLM-based agents that reason, remember, and adapt reliably under real-world constraints. My current research centers on **reinforcement learning for post-training and reasoning, agent memory and experience governance, and how data and rewards shape what a model actually learns**.
 
-This work is grounded in a strong publication record (<b>676 citations, h-index 11, i10-index 12</b> on <a href="https://scholar.google.com/citations?user=UX2048QAAAAJ">Google Scholar</a>) across leading IEEE venues, including IEEE TMM, IEEE/ACM ToN, IEEE TMC, IEEE COMST (IF 46.7), IEEE TNSE, and IEEE IoTJ, spanning LLM agents, on-device learning, and efficient edge intelligence. I also serve the community as a reviewer for NeurIPS, IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE TWC, and others.
+This work is grounded in a strong publication record (<b>676 citations, h-index 11, i10-index 12</b> on <a href="https://scholar.google.com/citations?user=UX2048QAAAAJ">Google Scholar</a>) across leading IEEE venues, including IEEE TMM, IEEE/ACM ToN, IEEE TMC, IEEE COMST (IF 46.7), IEEE TNSE, and IEEE IoTJ, spanning LLM agents, on-device learning, and efficient edge intelligence. I also serve the community as a reviewer for NeurIPS, Scientific Reports, IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE TWC, and others.
 
 **Research Interests:** Agentic AI &amp; LLM Agents · Reinforcement Learning for Post-Training &amp; Reasoning · Agent Memory &amp; Experience Governance · Data-Centric ML &amp; Training Reliability · On-Device / Edge AI Systems
 
@@ -267,6 +267,7 @@ I serve as a reviewer for the following prestigious journals:
 - IEEE Access
 
 **Other Journals:**
+- Scientific Reports
 - High-Confidence Computing
 - ICT Express
 - Digital Communications and Networks

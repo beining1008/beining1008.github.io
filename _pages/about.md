@@ -273,6 +273,7 @@ I serve as a reviewer for the following prestigious journals:
 - International Journal of Communication Systems
 - IET Wireless Sensor Systems
 - Scientific Reports
+- Connection Science
 
 ---
 

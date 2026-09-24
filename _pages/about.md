@@ -122,10 +122,10 @@ Zihao Ding, **Beining Wu**, Jun Huang. *IEEE International Conference on Distrib
 
 </div></div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE TMM 2026</div><a href="https://arxiv.org/abs/2605.01061"><img src="/images/pub_tmm.png" alt="Federated multimodal continual learning framework" width="100%" /></a></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE TMM 2026</div><a href="https://ieeexplore.ieee.org/document/11702500"><img src="/images/pub_tmm.png" alt="Federated multimodal continual learning framework" width="100%" /></a></div></div>
 <div class="paper-box-text" markdown="1">
 
-<a href="https://arxiv.org/abs/2605.01061">Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning</a>
+<a href="https://ieeexplore.ieee.org/document/11702500">Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning</a>
 
 **Beining Wu**, Zihao Ding, Jun Huang. *IEEE Transactions on Multimedia*, 2026.
 
@@ -187,7 +187,7 @@ The on-device numbers in these papers come from hardware I built and maintain: t
 - **Beining Wu**, Z. Ding, J. Huang. <a href="https://ieeexplore.ieee.org/document/11363404">"A Review of Continual Learning in Edge AI."</a> *IEEE Transactions on Network Science and Engineering*, 2026. DOI: 10.1109/TNSE.2026.3657652.
   - **ESI Highly Cited Paper (Top 1%)**
 
-- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2605.01061">"Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *IEEE Transactions on Multimedia*, 2026. DOI: 10.1109/TMM.2026.3736516.
+- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://ieeexplore.ieee.org/document/11702500">"Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning."</a> *IEEE Transactions on Multimedia*, 2026. DOI: 10.1109/TMM.2026.3736516.
 
 - **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://ieeexplore.ieee.org/document/11659556">"RELIEF: Turning Missing Modalities into Training Acceleration for Federated Learning on Heterogeneous IoT Edge."</a> *IEEE Internet of Things Journal*, 2026. DOI: 10.1109/JIOT.2026.3725593.
 

@@ -43,7 +43,7 @@ This work is grounded in a strong publication record (<b>684 citations, h-index 
 
 <div class="scroll-panel" markdown="1" style="max-height: 360px;">
 
-- **September 2026**: 📝 Our paper "ERRAND: Budgeted Maintenance of Agent Memory" was accepted by **NeurIPS 2026**, *Towards Test-Time Continual Learning Agents* (<a href="https://arxiv.org/abs/2609.29545">arXiv</a>).
+- **September 2026**: 📝 Our paper "ERRAND: Budgeted Maintenance of Agent Memory" was accepted by **NeurIPS WS 2026**, *Towards Test-Time Continual Learning Agents* (<a href="https://arxiv.org/abs/2609.29545">arXiv</a>).
 - **September 2026**: 🏆 Our paper "A Review of Continual Learning in Edge AI" was designated as an **ESI Highly Cited Paper** (Top 1%).
 - **September 2026**: 🏆 Our Discover proposal "Budget-Governed Memory and Post-Deployment Learning for Self-Evolving Language-Model Agents" was approved by **NSF ACCESS** (PI, 750,000 ACCESS Credits, 2026–2027).
 - **August 2026**: 📝 Our paper "Exposing and Resolving Spurious Isolation in Federated Multimodal Continual Learning" was accepted as a regular paper by the **IEEE Transactions on Multimedia**.
@@ -85,12 +85,12 @@ This work is grounded in a strong publication record (<b>684 citations, h-index 
 
 ### Self-Evolving Agents and Experience Memory
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2026</div><a href="https://arxiv.org/abs/2609.29545"><img src="/images/pub_errand.png" alt="Eager revalidation versus ERRAND priced revalidation on a drifted briefing item" width="100%" /></a></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS WS 2026</div><a href="https://arxiv.org/abs/2609.29545"><img src="/images/pub_errand.png" alt="Eager revalidation versus ERRAND priced revalidation on a drifted briefing item" width="100%" /></a></div></div>
 <div class="paper-box-text" markdown="1">
 
 <a href="https://arxiv.org/abs/2609.29545">ERRAND: Budgeted Maintenance of Agent Memory</a>
 
-**Beining Wu**, Zihao Ding, Jun Huang. *NeurIPS 2026, Towards Test-Time Continual Learning Agents*.
+**Beining Wu**, Zihao Ding, Jun Huang. *NeurIPS WS 2026, Towards Test-Time Continual Learning Agents*.
 
 </div></div>
 
@@ -217,7 +217,7 @@ The on-device numbers in these papers come from hardware I built and maintain: t
 
 ### Conference Papers
 
-- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2609.29545">"ERRAND: Budgeted Maintenance of Agent Memory."</a> *NeurIPS 2026, Towards Test-Time Continual Learning Agents*.
+- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2609.29545">"ERRAND: Budgeted Maintenance of Agent Memory."</a> *NeurIPS WS 2026, Towards Test-Time Continual Learning Agents*.
 
 - **Beining Wu**, Jun Huang, Yanxiao Zhao. "From Alpha to Omega: Lifecycle-Aware Forgetting Defense in Federated Continual Learning for Planetary Exploration." *IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2026. (Acceptance rate: 18.59%)
 

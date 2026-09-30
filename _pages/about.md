@@ -30,7 +30,7 @@ redirect_from:
 
 I am a third-year Ph.D. student in Computer Science at South Dakota State University. I build **on-device and agentic AI systems**: LLM-based agents that reason, remember, and adapt reliably under real-world constraints. My current research centers on **reinforcement learning for post-training and reasoning, agent memory and experience governance, and how data and rewards shape what a model actually learns**.
 
-This work is grounded in a strong publication record (<b>684 citations, h-index 11, i10-index 12</b> on <a href="https://scholar.google.com/citations?user=UX2048QAAAAJ">Google Scholar</a>) across leading IEEE venues, including IEEE TMM, IEEE/ACM ToN, IEEE TMC, IEEE COMST (IF 46.7), IEEE TNSE, and IEEE IoTJ, spanning LLM agents, on-device learning, and efficient edge intelligence. I also serve the community as a reviewer for NeurIPS, IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE TWC, and others.
+This work is grounded in a strong publication record (<b>710 citations, h-index 11, i10-index 13</b> on <a href="https://scholar.google.com/citations?user=UX2048QAAAAJ">Google Scholar</a>) across leading IEEE venues, including IEEE TMM, IEEE/ACM ToN, IEEE TMC, IEEE COMST (IF 46.7), IEEE TNSE, and IEEE IoTJ, spanning LLM agents, on-device learning, and efficient edge intelligence. I also serve the community as a reviewer for NeurIPS, IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE TWC, and others.
 
 **Research Interests:** Agentic AI &amp; LLM Agents · Reinforcement Learning for Post-Training &amp; Reasoning · Agent Memory &amp; Experience Governance · Data-Centric ML &amp; Training Reliability · On-Device / Edge AI Systems
 
@@ -43,6 +43,7 @@ This work is grounded in a strong publication record (<b>684 citations, h-index 
 
 <div class="scroll-panel" markdown="1" style="max-height: 360px;">
 
+- **September 2026**: 🤖 Released **REBASE**, our work on keeping the device and cloud copies of **GUI-agent** experience coherent across app updates, as a <a href="https://arxiv.org/abs/2609.32130">preprint on arXiv</a>.
 - **September 2026**: 📝 Our paper "ERRAND: Budgeted Maintenance of Agent Memory" was accepted by **NeurIPS WS 2026**, *Towards Test-Time Continual Learning Agents* (<a href="https://arxiv.org/abs/2609.29545">arXiv</a>).
 - **September 2026**: 🏆 Our paper "A Review of Continual Learning in Edge AI" was designated as an **ESI Highly Cited Paper** (Top 1%).
 - **September 2026**: 🏆 Our Discover proposal "Budget-Governed Memory and Post-Deployment Learning for Self-Evolving Language-Model Agents" was approved by **NSF ACCESS** (PI, 750,000 ACCESS Credits, 2026–2027).
@@ -91,6 +92,15 @@ This work is grounded in a strong publication record (<b>684 citations, h-index 
 <a href="https://arxiv.org/abs/2609.29545">ERRAND: Budgeted Maintenance of Agent Memory</a>
 
 **Beining Wu**, Zihao Ding, Jun Huang. *NeurIPS WS 2026, Towards Test-Time Continual Learning Agents*.
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Preprint</div><a href="https://arxiv.org/abs/2609.32130"><img src="/images/pub_rebase.png" alt="REBASE device-side verification with cloud-side replay and evidence-driven repair across app updates" width="100%" /></a></div></div>
+<div class="paper-box-text" markdown="1">
+
+<a href="https://arxiv.org/abs/2609.32130">REBASE: Device-Cloud Experience Coherence for GUI Agents Across App Updates</a>
+
+**Beining Wu**, Jun Huang, Yanxiao Zhao. *arXiv preprint*, 2026.
 
 </div></div>
 
@@ -228,6 +238,8 @@ The on-device numbers in these papers come from hardware I built and maintain: t
 - **Beining Wu**, Jun Huang, Qiang Duan. <a href="https://link.springer.com/chapter/10.1007/978-981-96-8725-1_2">"FedTD3: An Accelerated Learning Approach for UAV Trajectory Planning."</a> *International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)*, Tokyo, Japan, June 2025.
 
 ### Preprints
+
+- **Beining Wu**, Jun Huang, Yanxiao Zhao. <a href="https://arxiv.org/abs/2609.32130">"REBASE: Device-Cloud Experience Coherence for GUI Agents Across App Updates."</a> *arXiv preprint arXiv:2609.32130*, 2026.
 
 - Dhe Yeong Tchalla, **Beining Wu**, Jun Huang, Shuyang Gu, Qiang Duan. <a href="https://arxiv.org/abs/2608.07730">"FedSceneX: Time-to-Target Orchestration for Same-Scene Multimodal Federated Edge Learning."</a> *arXiv preprint arXiv:2608.07730*, 2026.
 

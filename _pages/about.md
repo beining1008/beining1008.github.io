@@ -43,6 +43,7 @@ This work is grounded in a strong publication record (<b>710 citations, h-index 
 
 <div class="scroll-panel" markdown="1" style="max-height: 360px;">
 
+- **October 2026**: 🤖 Released **Component Routing**, our work on sending each component of a **self-improving GUI agent**'s experience to the weights or to the context, as a <a href="https://arxiv.org/abs/2610.01787">preprint on arXiv</a>.
 - **September 2026**: 🤖 Released **REBASE**, our work on keeping the device and cloud copies of **GUI-agent** experience coherent across app updates, as a <a href="https://arxiv.org/abs/2609.32130">preprint on arXiv</a>.
 - **September 2026**: 📝 Our paper "ERRAND: Budgeted Maintenance of Agent Memory" was accepted by **NeurIPS WS 2026**, *Towards Test-Time Continual Learning Agents* (<a href="https://arxiv.org/abs/2609.29545">arXiv</a>).
 - **September 2026**: 🏆 Our paper "A Review of Continual Learning in Edge AI" was designated as an **ESI Highly Cited Paper** (Top 1%).
@@ -92,6 +93,15 @@ This work is grounded in a strong publication record (<b>710 citations, h-index 
 <a href="https://arxiv.org/abs/2609.29545">ERRAND: Budgeted Maintenance of Agent Memory</a>
 
 **Beining Wu**, Zihao Ding, Jun Huang. *NeurIPS WS 2026, Towards Test-Time Continual Learning Agents*.
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Preprint</div><a href="https://arxiv.org/abs/2610.01787"><img src="/images/pub_routing.png" alt="Whole-history reuse versus component routing of GUI-agent experience to the weights or the context" width="100%" /></a></div></div>
+<div class="paper-box-text" markdown="1">
+
+<a href="https://arxiv.org/abs/2610.01787">Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents</a>
+
+**Beining Wu**, Zihao Ding, Jun Huang. *arXiv preprint*, 2026.
 
 </div></div>
 
@@ -239,6 +249,8 @@ The on-device numbers in these papers come from hardware I built and maintain: t
 
 ### Preprints
 
+- **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2610.01787">"Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents."</a> *arXiv preprint arXiv:2610.01787*, 2026.
+
 - **Beining Wu**, Jun Huang, Yanxiao Zhao. <a href="https://arxiv.org/abs/2609.32130">"REBASE: Device-Cloud Experience Coherence for GUI Agents Across App Updates."</a> *arXiv preprint arXiv:2609.32130*, 2026.
 
 - Dhe Yeong Tchalla, **Beining Wu**, Jun Huang, Shuyang Gu, Qiang Duan. <a href="https://arxiv.org/abs/2608.07730">"FedSceneX: Time-to-Target Orchestration for Same-Scene Multimodal Federated Edge Learning."</a> *arXiv preprint arXiv:2608.07730*, 2026.
@@ -312,4 +324,4 @@ Beyond academics, I am a National Level-2 Badminton Athlete (China) and currentl
 
 ---
 
-*Last updated: September 2026*
+*Last updated: October 2026*

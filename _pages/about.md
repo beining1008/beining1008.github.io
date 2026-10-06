@@ -310,6 +310,7 @@ I serve as a reviewer for the following prestigious journals:
 - IET Wireless Sensor Systems
 - Scientific Reports
 - Connection Science
+- Journal of King Saud University Computer and Information Sciences
 
 ---
 

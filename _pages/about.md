@@ -43,6 +43,7 @@ This work is grounded in a strong publication record (<b>710 citations, h-index 
 
 <div class="scroll-panel" markdown="1" style="max-height: 360px;">
 
+- **October 2026**: 📝 Two papers were accepted by **IEEE IPCCC 2026**.
 - **October 2026**: 🤖 Released **Component Routing**, our work on sending each component of a **self-improving GUI agent**'s experience to the weights or to the context, as a <a href="https://arxiv.org/abs/2610.01787">preprint on arXiv</a>.
 - **September 2026**: 🤖 Released **REBASE**, our work on keeping the device and cloud copies of **GUI-agent** experience coherent across app updates, as a <a href="https://arxiv.org/abs/2609.32130">preprint on arXiv</a>.
 - **September 2026**: 📝 Our paper "ERRAND: Budgeted Maintenance of Agent Memory" was accepted by **NeurIPS WS 2026**, *Towards Test-Time Continual Learning Agents* (<a href="https://arxiv.org/abs/2609.29545">arXiv</a>).
@@ -123,12 +124,12 @@ This work is grounded in a strong publication record (<b>710 citations, h-index 
 
 </div></div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Preprint</div><a href="https://arxiv.org/abs/2606.25115"><img src="/images/pub_curator.png" alt="Budget-curated experience memory governing keep, share, and trust" width="100%" /></a></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IPCCC 2026</div><a href="https://arxiv.org/abs/2606.25115"><img src="/images/pub_curator.png" alt="Budget-curated experience memory governing keep, share, and trust" width="100%" /></a></div></div>
 <div class="paper-box-text" markdown="1">
 
 <a href="https://arxiv.org/abs/2606.25115">Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory</a>
 
-**Beining Wu**, Zihao Ding, Jun Huang, Yanxiao Zhao. *arXiv preprint*, 2026.
+**Beining Wu**, Zihao Ding, Jun Huang, Yanxiao Zhao. *IEEE International Performance, Computing, and Communications Conference (IPCCC)*, 2026.
 
 </div></div>
 
@@ -237,6 +238,10 @@ The on-device numbers in these papers come from hardware I built and maintain: t
 
 ### Conference Papers
 
+- **Beining Wu**, Zihao Ding, Jun Huang, Yanxiao Zhao. <a href="https://arxiv.org/abs/2606.25115">"Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory."</a> *IEEE International Performance, Computing, and Communications Conference (IPCCC)*, 2026.
+
+- Dhe Yeong Tchalla, **Beining Wu**, Jun Huang, Shuyang Gu, Qiang Duan. <a href="https://arxiv.org/abs/2608.07730">"FedSceneX: Time-to-Target Orchestration for Same-Scene Multimodal Federated Edge Learning."</a> *IEEE International Performance, Computing, and Communications Conference (IPCCC)*, 2026.
+
 - **Beining Wu**, Zihao Ding, Jun Huang. <a href="https://arxiv.org/abs/2609.29545">"ERRAND: Budgeted Maintenance of Agent Memory."</a> *NeurIPS WS 2026, Towards Test-Time Continual Learning Agents*.
 
 - **Beining Wu**, Jun Huang, Yanxiao Zhao. "From Alpha to Omega: Lifecycle-Aware Forgetting Defense in Federated Continual Learning for Planetary Exploration." *IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2026. (Acceptance rate: 18.59%)
@@ -253,11 +258,7 @@ The on-device numbers in these papers come from hardware I built and maintain: t
 
 - **Beining Wu**, Jun Huang, Yanxiao Zhao. <a href="https://arxiv.org/abs/2609.32130">"REBASE: Device-Cloud Experience Coherence for GUI Agents Across App Updates."</a> *arXiv preprint arXiv:2609.32130*, 2026.
 
-- Dhe Yeong Tchalla, **Beining Wu**, Jun Huang, Shuyang Gu, Qiang Duan. <a href="https://arxiv.org/abs/2608.07730">"FedSceneX: Time-to-Target Orchestration for Same-Scene Multimodal Federated Edge Learning."</a> *arXiv preprint arXiv:2608.07730*, 2026.
-
 - **Beining Wu**, Jun Huang. <a href="https://arxiv.org/abs/2608.00303">"CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization."</a> *arXiv preprint arXiv:2608.00303*, 2026.
-
-- **Beining Wu**, Zihao Ding, Jun Huang, Yanxiao Zhao. <a href="https://arxiv.org/abs/2606.25115">"Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory."</a> *arXiv preprint arXiv:2606.25115*, 2026.
 
 - Zihao Ding, **Beining Wu**, Jun Huang. <a href="https://arxiv.org/abs/2605.00733">"EASE: Federated Multimodal Unlearning via Entanglement-Aware Anchor Closure."</a> *arXiv preprint arXiv:2605.00733*, 2026.
 

@@ -313,6 +313,11 @@ I serve as a reviewer for the following prestigious journals:
 - Connection Science
 - Journal of King Saud University Computer and Information Sciences
 
+### Book Reviewer
+
+- **Book Proposal Reviewer**
+  - Springer Nature (Computer Science), 2026
+
 ---
 
 ## 🏸 More About Me

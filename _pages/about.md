@@ -30,7 +30,7 @@ redirect_from:
 
 I am a third-year Ph.D. student in Computer Science at South Dakota State University. I build **on-device and agentic AI systems**: LLM-based agents that reason, remember, and adapt reliably under real-world constraints. My current research centers on **reinforcement learning for post-training and reasoning, agent memory and experience governance, and how data and rewards shape what a model actually learns**.
 
-My work has appeared in IEEE TMM, IEEE/ACM ToN, IEEE TMC, IEEE COMST, IEEE TNSE, and IEEE IoTJ, spanning LLM agents, on-device learning, and efficient edge intelligence. I also serve the community as a reviewer for ICLR, NeurIPS, IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE TWC, and others.
+My work has appeared in IEEE TMM, IEEE/ACM ToN, IEEE TMC, IEEE COMST, IEEE TNSE, and IEEE IoTJ, spanning LLM agents, on-device learning, and efficient edge intelligence. I also serve the community as a reviewer for ICLR, MLSys, NeurIPS, IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE TWC, and others.
 
 **Research Interests:** Agentic AI &amp; LLM Agents · Reinforcement Learning for Post-Training &amp; Reasoning · Agent Memory &amp; Experience Governance · Data-Centric ML &amp; Training Reliability · On-Device / Edge AI Systems
 
@@ -280,6 +280,7 @@ The on-device numbers in these papers come from hardware I built and maintain: t
 
 - **Conference Reviewer**
   - International Conference on Learning Representations (ICLR), 2026
+  - Conference on Machine Learning and Systems (MLSys), 2027
   - Interpreting Agent Behavior (IAB), NeurIPS 2026
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026
   - Latent Visual Reasoning (LVR), WACV 2027

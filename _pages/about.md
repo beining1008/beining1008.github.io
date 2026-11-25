@@ -30,7 +30,7 @@ redirect_from:
 
 I am a third-year Ph.D. student in Computer Science at South Dakota State University. I build **on-device and agentic AI systems**: LLM-based agents that reason, remember, and adapt reliably under real-world constraints. My current research centers on **reinforcement learning for post-training and reasoning, agent memory and experience governance, and how data and rewards shape what a model actually learns**.
 
-My work has appeared in IEEE TMM, IEEE/ACM ToN, IEEE TMC, IEEE COMST, IEEE TNSE, and IEEE IoTJ, spanning LLM agents, on-device learning, and efficient edge intelligence. I also serve the community as a reviewer for ICLR, MLSys, NeurIPS, IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE TWC, and others.
+My work has appeared in IEEE TMM, IEEE/ACM ToN, IEEE TMC, IEEE COMST, IEEE TNSE, and IEEE IoTJ, spanning LLM agents, on-device learning, and efficient edge intelligence. I also serve the community as a reviewer for ICLR, MLSys, NeurIPS, IEEE TNNLS, IEEE JSAC, IEEE TMC, IEEE TDSC, IEEE TWC, and others.
 
 **Research Interests:** Agentic AI &amp; LLM Agents · Reinforcement Learning for Post-Training &amp; Reasoning · Agent Memory &amp; Experience Governance · Data-Centric ML &amp; Training Reliability · On-Device / Edge AI Systems
 
@@ -294,6 +294,7 @@ I serve as a reviewer for the following prestigious journals:
 **IEEE Journals:**
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC)

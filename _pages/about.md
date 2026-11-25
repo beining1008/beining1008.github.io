@@ -266,6 +266,8 @@ The on-device numbers in these papers come from hardware I built and maintain: t
 
 - **Beining Wu**, Jun Huang. <a href="https://arxiv.org/abs/2604.20745">"Lifecycle-Aware Federated Continual Learning in Mobile Autonomous Systems."</a> *arXiv preprint arXiv:2604.20745*, 2026.
 
+- **Beining Wu** (as Michael Wu), Arquimedes Canedo. <a href="https://arxiv.org/abs/2609.00243">"Invalidation Contracts for Cross-Episode Agent Memory."</a> *arXiv preprint arXiv:2609.00243*, 2026.
+
 </div>
 
 ---

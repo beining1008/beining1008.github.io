@@ -284,6 +284,7 @@ The on-device numbers in these papers come from hardware I built and maintain: t
   - International Conference on Learning Representations (ICLR), 2026
   - Conference on Machine Learning and Systems (MLSys), 2027
   - Interpreting Agent Behavior (IAB), NeurIPS 2026
+  - Geometric & Spatial Reasoning in Vision-Language Models (GSR-VLM), AAAI 2027
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026
   - Latent Visual Reasoning (LVR), WACV 2027
 
